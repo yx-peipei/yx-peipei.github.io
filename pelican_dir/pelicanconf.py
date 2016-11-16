@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 from os import getenv
 
 AUTHOR = 'peipei'
-SITENAME = "peipei's blog"
+SITENAME = "佩佩的小窝"
 
 SITEURL = '//' + getenv("SITEURL", default='localhost:8000')
 
@@ -28,7 +28,7 @@ DATE_FORMATS = {
 #GOOGLE_ANALYTICS = 'UA-30756331-1'
 
 
-
+STATIC_PATHS= ['images','pages','static']
 
 TAG_FEED_ATOM = None
 FEED_ATOM = None
@@ -45,6 +45,7 @@ PAGE_PATHS = ['pages']
 
 # -------theme settings, see https://github.com/DandyDev/pelican-bootstrap3/wiki/Variables
 THEME = "pelican-themes/pelican-bootstrap3"
+BOOTSTRAP_THEME = 'cosmo'
 DISPLAY_TAGS_INLINE = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 #~ SHOW_ARTICLE_CATEGORY = True
@@ -67,7 +68,7 @@ OUTPUT_SOURCES = False
 
 DIRECT_TEMPLATES = (('search', 'index', 'categories', 'authors', 'archives','tags'))
 AVATAR = 'images/peipei.jpeg'
-ABOUT_PAGE = "about.html"
+ABOUT_ME = "about.html"
 
 # ------- end theme settings -------
 

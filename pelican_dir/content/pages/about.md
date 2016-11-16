@@ -1,6 +1,6 @@
 Title: About Me
 Status: hidden
 Save_as: about.html
-Date: 2016-10-10
+Date: 2016-11-16
 
-上海西南某高校毕业, X2012.
+南京表白大学, X2012.
