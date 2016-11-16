@@ -10,8 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://x-wei.github.io'
-GITHUB_URL = 'https://github.com/X-Wei'
+SITEURL = 'http://yx-peipei.github.io'
+GITHUB_URL = 'https://github.com/yx-peipei'
 
 OUTPUT_PATH = '../'
 RELATIVE_URLS = False
@@ -24,9 +24,9 @@ USE_LESS = False
 
 
 
-DISQUS_SITENAME = 'xweisblog'
-DISQUS_DISPLAY_COUNTS = False
-GOOGLE_ANALYTICS = 'UA-30756331-1'
+#DISQUS_SITENAME = 'xweisblog'
+#DISQUS_DISPLAY_COUNTS = False
+#GOOGLE_ANALYTICS = 'UA-30756331-1'
 
 TAG_FEED_ATOM = 'feeds/tag-%s.atom.xml'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
