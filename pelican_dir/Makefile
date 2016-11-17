@@ -8,7 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SITEURL=x-wei.github.io
+SITEURL=yx-peipei.github.io
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
