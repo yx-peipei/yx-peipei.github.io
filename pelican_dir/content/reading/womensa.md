@@ -1,8 +1,7 @@
-Title         : yangjiang_womensa
-Author        : peipei
-Logo          : True
+Title: 杨绛-我们仨
+Date: 2016-11-25
+Tags: 读书
 
-[杨绛-我们仨]
 
 #读后感
 
