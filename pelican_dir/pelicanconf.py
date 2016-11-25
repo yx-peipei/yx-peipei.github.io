@@ -42,7 +42,9 @@ EXTRA_PATH_METADATA = {
 #~ 'tag/images': {'path': '../images'}
 }
 
-
+FEED_DOMAIN = SITEURL
+FEED_ALL_RSS = 'feed.xml'
+FEED_MAX_ITEMS = 20
 TAG_FEED_ATOM = None
 FEED_ATOM = None
 FEED_ALL_ATOM = None
@@ -50,11 +52,15 @@ CATEGORY_FEED_ATOM = None
 
 DEFAULT_PAGINATION = 7
 
-PAGE_URL = "{slug}.html"
-PAGE_SAVE_AS = "{slug}.html"
-PAGE_PATHS = ['pages']
-#~ TAG_SAVE_AS='tag_{slug}.html'
-#~ CATEGORY_SAVE_AS='category_{slug}.html'
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = ARTICLE_URL
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = PAGE_URL
+CATEGORY_URL = '{slug}/index.html'
+CATEGORY_SAVE_AS = CATEGORY_URL
+TAG_URL = 'tag/{slug}.html'
+TAG_SAVE_AS = TAG_URL
+TAGS_SAVE_AS = 'tag/index.html'
 
 # -------theme settings, see https://github.com/DandyDev/pelican-bootstrap3/wiki/Variables
 THEME = "pelican-themes/pelican-bootstrap3"
