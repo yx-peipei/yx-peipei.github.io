@@ -16,7 +16,7 @@ TIMEZONE = 'Asia/Shanghai'
 
 DEFAULT_LANG = 'zh'
 
-LOCALE = 'zh_CN.utf8'
+LOCALE = 'zh_CN.UTF-8'
 
 DATE_FORMATS = {
     'zh': ((u'en_US', 'utf8'), u'%a, %d %b %Y',),
