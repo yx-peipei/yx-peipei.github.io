@@ -28,7 +28,20 @@ DATE_FORMATS = {
 #GOOGLE_ANALYTICS = 'UA-30756331-1'
 
 
-STATIC_PATHS= ['images','pages','static']
+STATIC_PATHS= ['images',
+               'pages',
+               'static'
+               'images/favicon.ico',
+               'static/CNAME']
+
+EXTRA_PATH_METADATA = {
+    'images/favicon.ico': {'path': 'favicon.ico'},
+    'static/CNAME': {'path': 'CNAME'},
+    'static/robots.txt': {'path': 'robots.txt'},
+    'static/manifest.json': {'path': 'manifest.json'},
+#~ 'tag/images': {'path': '../images'}
+}
+
 
 TAG_FEED_ATOM = None
 FEED_ATOM = None
@@ -68,7 +81,8 @@ OUTPUT_SOURCES = False
 
 DIRECT_TEMPLATES = (('search', 'index', 'categories', 'authors', 'archives','tags'))
 AVATAR = 'images/peipei.jpeg'
-ABOUT_ME = "about.html"
+ABOUT_PAGE = "about.html"
+
 
 # ------- end theme settings -------
 
