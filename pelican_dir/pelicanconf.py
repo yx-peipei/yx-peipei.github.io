@@ -75,7 +75,7 @@ DISPLAY_SERIES_ON_SIDEBAR = True
 SERIES_TEXT = 'Part %(index)s of the %(name)s series'
 
 TYPOGRIFY = False
-PYGMENTS_STYLE = 'monokai'
+PYGMENTS_STYLE = 'manni'
 GITHUB_USER = 'yx-peipei'
 GITHUB_SHOW_USER_LINK = True
 GITHUB_REPO = 'yx-peipei/yx-peipei.github.io'
