@@ -75,7 +75,7 @@ DISPLAY_SERIES_ON_SIDEBAR = True
 SERIES_TEXT = 'Part %(index)s of the %(name)s series'
 
 TYPOGRIFY = False
-PYGMENTS_STYLE = 'manni'
+PYGMENTS_STYLE = 'monokai'
 GITHUB_USER = 'yx-peipei'
 GITHUB_SHOW_USER_LINK = True
 GITHUB_REPO = 'yx-peipei/yx-peipei.github.io'
@@ -102,7 +102,9 @@ MD_EXTENSIONS = ['admonition',
                  'codehilite(css_class=highlight,linenums=False)',
                  'extra']
 
-PLUGINS = ["i18n_subsites",
+
+
+PLUGINS = [#"i18n_subsites",
            "better_codeblock_line_numbering",
            #~ 'better_figures_and_images',
            'tipue_search',
@@ -122,7 +124,7 @@ SITEMAP = {
 USE_LESS = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+#RELATIVE_URLS = False
 #CHECK_MODIFIED_METHOD = "md5"
 #LOAD_CONTENT_CACHE = True
 #CACHE_CONTENT = True
