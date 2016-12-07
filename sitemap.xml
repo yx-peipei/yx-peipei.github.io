@@ -5,22 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://yx-peipei.github.io/</loc>
-<lastmod>2016-12-05T11:14:31-00:00</lastmod>
+<lastmod>2016-12-08T07:34:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yx-peipei.github.io/archives.html</loc>
-<lastmod>2016-12-05T11:14:31-00:00</lastmod>
+<lastmod>2016-12-08T07:34:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://yx-peipei.github.io/categories.html</loc>
-<lastmod>2016-12-05T11:14:31-00:00</lastmod>
+<lastmod>2016-12-08T07:34:14-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yx-peipei.github.io/thought/In the MONEY that we trust：我们所信任的钱.html</loc>
+<lastmod>2016-12-08T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -89,7 +96,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://yx-peipei.github.io/thought/index.html</loc>
-<lastmod>2016-12-05T00:00:00+08:06</lastmod>
+<lastmod>2016-12-08T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yx-peipei.github.io/tag/zong-jiao.html</loc>
+<lastmod>2016-11-25T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yx-peipei.github.io/tag/shi-jie-ju-shi.html</loc>
+<lastmod>2016-11-25T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yx-peipei.github.io/tag/cai-fu.html</loc>
+<lastmod>2016-11-25T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://yx-peipei.github.io/tag/others.html</loc>
+<lastmod>2016-11-16T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -109,20 +144,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://yx-peipei.github.io/tag/shi-jie-ju-shi.html</loc>
-<lastmod>2016-11-25T00:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://yx-peipei.github.io/tag/xiu-xing.html</loc>
-<lastmod>2016-11-29T00:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://yx-peipei.github.io/tag/zhe-xue.html</loc>
 <lastmod>2016-11-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -137,13 +158,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://yx-peipei.github.io/tag/jin-rong.html</loc>
-<lastmod>2016-12-05T00:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://yx-peipei.github.io/tag/zhong-guo-wen-xue.html</loc>
 <lastmod>2016-11-25T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -151,22 +165,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://yx-peipei.github.io/tag/zong-jiao.html</loc>
-<lastmod>2016-11-25T00:00:00+08:06</lastmod>
+<loc>http://yx-peipei.github.io/tag/jing-ji-du-shu.html</loc>
+<lastmod>2016-12-08T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://yx-peipei.github.io/tag/san-wen.html</loc>
-<lastmod>2016-11-25T00:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://yx-peipei.github.io/tag/cai-fu.html</loc>
-<lastmod>2016-11-25T00:00:00+08:06</lastmod>
+<loc>http://yx-peipei.github.io/tag/jin-rong.html</loc>
+<lastmod>2016-12-08T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -179,8 +186,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://yx-peipei.github.io/tag/others.html</loc>
-<lastmod>2016-11-16T00:00:00+08:06</lastmod>
+<loc>http://yx-peipei.github.io/tag/xiu-xing.html</loc>
+<lastmod>2016-11-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -193,8 +200,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://yx-peipei.github.io/tag/san-wen.html</loc>
+<lastmod>2016-11-25T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://yx-peipei.github.io/author/peipei.html</loc>
-<lastmod>2016-12-05T00:00:00+08:06</lastmod>
+<lastmod>2016-12-08T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
