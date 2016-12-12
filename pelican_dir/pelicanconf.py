@@ -115,7 +115,8 @@ PLUGINS = [#"i18n_subsites",
            'extract_toc',
            'tag_cloud',
            'sitemap',
-           'summary']
+           'summary',
+           'liquid_tags.notebook']
 
 SITEMAP = {
     'format': 'xml',
