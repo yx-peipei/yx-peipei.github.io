@@ -1,2 +1,0 @@
-pelican
-fontawesome-markdown==0.2.1
