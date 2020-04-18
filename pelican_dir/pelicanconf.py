@@ -64,9 +64,7 @@ TAGS_SAVE_AS = 'tag/index.html'
 
 # -------theme settings, see https://github.com/DandyDev/pelican-bootstrap3/wiki/Variables
 THEME = "pelican-themes/pelican-bootstrap3"
-#THEME = "pelican-themes/voce/"
-#DEFAULT_DATE_FORMAT = "%b %d, %Y"
-BOOTSTRAP_THEME = 'cosmo'
+#BOOTSTRAP_THEME = 'cosmo'
 #THEME = "theme"
 DISPLAY_TAGS_INLINE = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True

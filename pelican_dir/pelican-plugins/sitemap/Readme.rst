@@ -1,10 +1,11 @@
 Sitemap
 -------
 
-This plugin generates plain-text or XML sitemaps. You can use the ``SITEMAP``
-variable in your settings file to configure the behavior of the plugin.
+The sitemap plugin generates plain-text or XML sitemaps. You can use the
+``SITEMAP`` variable in your settings file to configure the behavior of the
+plugin.
 
-The ``SITEMAP`` variable must be a Python dictionary and can contain these keys:
+The ``SITEMAP`` variable must be a Python dictionary and can contain three keys:
 
 - ``format``, which sets the output format of the plugin (``xml`` or ``txt``)
 
@@ -30,22 +31,11 @@ The ``SITEMAP`` variable must be a Python dictionary and can contain these keys:
 
   Valid frequency values are ``always``, ``hourly``, ``daily``, ``weekly``, ``monthly``,
   ``yearly`` and ``never``.
-
-You can exclude URLs from being included in the sitemap via regular expressions.
-For example, to exclude all URLs containing ``tag/`` or ``category/`` you can
-use the following ``SITEMAP`` setting.
-
-.. code-block:: python
-
-    SITEMAP = {
-        'exclude': ['tag/', 'category/']
-    }
+  
+You can exclude URLs from being included in the sitemap by adding them to the sitemapExclude array in format 'sitemapExclude = ['login.html', 'signup.html']`.  
 
 If a key is missing or a value is incorrect, it will be replaced with the
 default value.
-
-You can also exclude an individual URL by adding metadata to it setting ``private``
-to ``True``.
 
 The sitemap is saved in ``<output_path>/sitemap.<format>``.
 
@@ -60,9 +50,7 @@ Here is an example configuration (it's also the default settings):
 
 .. code-block:: python
 
-    # Where your plug-ins reside
-    PLUGIN_PATHS = ['/where/you/cloned/it/pelican-plugins/', ]
-    PLUGINS=['sitemap',]
+    PLUGINS=['pelican.plugins.sitemap',]
 
     SITEMAP = {
         'format': 'xml',

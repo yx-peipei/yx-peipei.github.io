@@ -8,7 +8,6 @@ The sitemap plugin generates plain-text or XML sitemaps.
 
 from __future__ import unicode_literals
 
-import re
 import collections
 import os.path
 
@@ -63,6 +62,7 @@ class SitemapGenerator(object):
         self.now = datetime.now()
         self.siteurl = settings.get('SITEURL')
 
+
         self.default_timezone = settings.get('TIMEZONE', 'UTC')
         self.timezone = getattr(self, 'timezone', self.default_timezone)
         self.timezone = timezone(self.timezone)
@@ -81,8 +81,6 @@ class SitemapGenerator(object):
             'pages': 0.5
         }
 
-        self.sitemapExclude = []
-
         config = settings.get('SITEMAP', {})
 
         if not isinstance(config, dict):
@@ -91,7 +89,6 @@ class SitemapGenerator(object):
             fmt = config.get('format')
             pris = config.get('priorities')
             chfreqs = config.get('changefreqs')
-            self.sitemapExclude = config.get('exclude', [])
 
             if fmt not in ('xml', 'txt'):
                 warning("sitemap plugin: SITEMAP['format'] must be `txt' or `xml'")
@@ -136,9 +133,6 @@ class SitemapGenerator(object):
 
         if getattr(page, 'status', 'published') != 'published':
             return
-           
-        if getattr(page, 'private', 'False') == 'True':
-            return
 
         # We can disable categories/authors/etc by using False instead of ''
         if not page.save_as:
@@ -167,15 +161,12 @@ class SitemapGenerator(object):
             chfreq = self.changefreqs['indexes']
 
         pageurl = '' if page.url == 'index.html' else page.url
-
+        
         #Exclude URLs from the sitemap:
+        sitemapExclude = []
+
         if self.format == 'xml':
-            flag = False
-            for regstr in self.sitemapExclude:
-                if re.match(regstr, pageurl):
-                    flag = True
-                    break
-            if not flag:
+            if pageurl not in sitemapExclude:
                 fd.write(XML_URL.format(self.siteurl, pageurl, lastmod, chfreq, pri))
         else:
             fd.write(self.siteurl + '/' + pageurl + '\n')
@@ -231,27 +222,14 @@ class SitemapGenerator(object):
                                                'url',
                                                'save_as'])
 
-            for standard_page in self.context['DIRECT_TEMPLATES']:
-                standard_page_url = self.context.get('{}_URL'.format(standard_page.upper()))
-                standard_page_save_as = self.context.get('{}_SAVE_AS'.format(standard_page.upper()))
+            for standard_page_url in ['index.html',
+                                      'archives.html',
+                                      'tags.html',
+                                      'categories.html']:
                 fake = FakePage(status='published',
                                 date=self.now,
-                                url=standard_page_url or '{}.html'.format(standard_page),
-                                save_as=standard_page_save_as or '{}.html'.format(standard_page))
-                self.write_url(fake, fd)
-
-            # add template pages
-            # We use items for Py3k compat. .iteritems() otherwise
-            for path, template_page_url in self.context['TEMPLATE_PAGES'].items():
-
-                # don't add duplicate entry for index page
-                if template_page_url == 'index.html':
-                    continue
-
-                fake = FakePage(status='published',
-                                date=self.now,
-                                url=template_page_url,
-                                save_as=template_page_url)
+                                url=standard_page_url,
+                                save_as=standard_page_url)
                 self.write_url(fake, fd)
 
             for page in pages:

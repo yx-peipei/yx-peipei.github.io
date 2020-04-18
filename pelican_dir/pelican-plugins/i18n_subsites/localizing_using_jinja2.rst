@@ -6,13 +6,11 @@ Localizing themes with Jinja2
 ---------------------
 
 To enable the |ext| extension in your templates, you must add it to
-``JINJA_ENVIRONMENT`` in your Pelican configuration
+``JINJA_EXTENSIONS`` in your Pelican configuration
 
 .. code-block:: python
 
-  JINJA_ENVIRONMENT = {
-    'extensions': ['jinja2.ext.i18n', ...]
-  }
+  JINJA_EXTENSIONS = ['jinja2.ext.i18n', ...]
 
 Then follow the `Jinja2 templating documentation for the I18N plugin
 <http://jinja.pocoo.org/docs/templates/#i18n>`_ to make your templates
