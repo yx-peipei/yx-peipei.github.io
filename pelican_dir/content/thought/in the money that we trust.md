@@ -1,7 +1,7 @@
 Title: In the MONEY that we trust：我们所信任的钱
 date: 2016-12-08
 Slug: In the MONEY that we trust：我们所信任的钱
-Tags: 金融, 经济, 读书
+Tags: Reading
 
 
 

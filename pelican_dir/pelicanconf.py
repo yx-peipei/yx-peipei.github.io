@@ -8,7 +8,7 @@ SITENAME = "佩佩的小窝"
 
 SITEURL = '//' + getenv("SITEURL", default='localhost:8000')
 
-SITEURL = 'http://yx-peipei.github.io'
+SITEURL = 'https://yx-peipei.github.io'
 
 OUTPUT_PATH = 'output/'
 
@@ -64,7 +64,9 @@ TAGS_SAVE_AS = 'tag/index.html'
 
 # -------theme settings, see https://github.com/DandyDev/pelican-bootstrap3/wiki/Variables
 THEME = "pelican-themes/pelican-bootstrap3"
-#BOOTSTRAP_THEME = 'cosmo'
+#THEME = "pelican-themes/voce/"
+#DEFAULT_DATE_FORMAT = "%b %d, %Y"
+BOOTSTRAP_THEME = 'cosmo'
 #THEME = "theme"
 DISPLAY_TAGS_INLINE = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True

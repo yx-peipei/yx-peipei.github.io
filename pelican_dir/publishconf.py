@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://yx-peipei.github.io'
+SITEURL = 'https://yx-peipei.github.io'
 GITHUB_URL = 'https://github.com/yx-peipei'
 
 OUTPUT_PATH = '../'
