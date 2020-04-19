@@ -64,7 +64,7 @@ TAGS_SAVE_AS = 'tag/index.html'
 
 # -------theme settings, see https://github.com/DandyDev/pelican-bootstrap3/wiki/Variables
 THEME = "pelican-themes/pelican-bootstrap3"
-BOOTSTRAP_THEME = 'cosmo'
+BOOTSTRAP_THEME = 'min'
 #THEME = "theme"
 DISPLAY_TAGS_INLINE = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
