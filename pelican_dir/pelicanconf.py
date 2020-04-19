@@ -24,8 +24,8 @@ DATE_FORMATS = {
 
 
 #DISQUS_SITENAME = 'peipeisblog'
-#DISQUS_DISPLAY_COUNTS = False
-#GOOGLE_ANALYTICS = 'UA-30756331-1'
+DISQUS_DISPLAY_COUNTS = True
+GOOGLE_ANALYTICS = 'UA-163475673-1'
 
 
 STATIC_PATHS= ['images',
@@ -44,7 +44,7 @@ EXTRA_PATH_METADATA = {
 
 FEED_DOMAIN = SITEURL
 FEED_ALL_RSS = 'feed.xml'
-FEED_MAX_ITEMS = 11
+FEED_MAX_ITEMS = 9
 TAG_FEED_ATOM = None
 FEED_ATOM = None
 FEED_ALL_ATOM = None
@@ -64,7 +64,7 @@ TAGS_SAVE_AS = 'tag/index.html'
 
 # -------theme settings, see https://github.com/DandyDev/pelican-bootstrap3/wiki/Variables
 THEME = "pelican-themes/pelican-bootstrap3"
-#BOOTSTRAP_THEME = 'cosmo'
+BOOTSTRAP_THEME = 'cosmo'
 #THEME = "theme"
 DISPLAY_TAGS_INLINE = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
