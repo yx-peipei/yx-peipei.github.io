@@ -5,22 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/</loc>
-<lastmod>2020-04-19T17:21:22-00:00</lastmod>
+<lastmod>2020-05-01T19:30:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/archives.html</loc>
-<lastmod>2020-04-19T17:21:22-00:00</lastmod>
+<lastmod>2020-05-01T19:30:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/categories.html</loc>
-<lastmod>2020-04-19T17:21:22-00:00</lastmod>
+<lastmod>2020-05-01T19:30:47-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/others/Keep fit during Corona lock down.html</loc>
+<lastmod>2020-05-01T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -236,7 +243,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/others/index.html</loc>
-<lastmod>2020-03-22T00:00:00+08:06</lastmod>
+<lastmod>2020-05-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -256,15 +263,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://yx-peipei.github.io/tag/prose.html</loc>
-<lastmod>2020-04-19T00:00:00+08:06</lastmod>
+<loc>https://yx-peipei.github.io/tag/lifestyle.html</loc>
+<lastmod>2020-05-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://yx-peipei.github.io/tag/lifestyle.html</loc>
-<lastmod>2020-03-22T00:00:00+08:06</lastmod>
+<loc>https://yx-peipei.github.io/tag/prose.html</loc>
+<lastmod>2020-04-19T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -292,7 +299,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/author/peipei.html</loc>
-<lastmod>2020-04-19T00:00:00+08:06</lastmod>
+<lastmod>2020-05-01T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
