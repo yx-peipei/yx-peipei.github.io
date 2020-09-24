@@ -5,22 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/</loc>
-<lastmod>2020-06-22T08:31:23-00:00</lastmod>
+<lastmod>2020-09-24T13:12:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/archives.html</loc>
-<lastmod>2020-06-22T08:31:23-00:00</lastmod>
+<lastmod>2020-09-24T13:12:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/categories.html</loc>
-<lastmod>2020-06-22T08:31:23-00:00</lastmod>
+<lastmod>2020-09-24T13:12:02-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/thought/走啊走吧.html</loc>
+<lastmod>2020-09-03T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -264,14 +271,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/thought/index.html</loc>
-<lastmod>2020-06-21T00:00:00+08:06</lastmod>
+<lastmod>2020-09-03T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/tag/prose.html</loc>
-<lastmod>2020-06-21T00:00:00+08:06</lastmod>
+<lastmod>2020-09-03T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -306,7 +313,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/author/peipei.html</loc>
-<lastmod>2020-06-21T00:00:00+08:06</lastmod>
+<lastmod>2020-09-03T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
