@@ -97,31 +97,42 @@ ABOUT_PAGE = "about.html"
 # ------- plugin settings ----------
 PLUGIN_PATHS = ['pelican-plugins']
 
-MD_EXTENSIONS = ['admonition',
-                 'toc',
-                 'codehilite(css_class=highlight,linenums=False)',
-                 'extra']
+MARKDOWN = {
+    'extension_configs': {
+        'admonition': {},
+        'toc': {},
+        'codehilite': {
+            'css_class': 'highlight',
+            'linenums': False
+        },
+        'extra': {}
+    }
+}
 
+TOC = {
+    'TOC_HEADERS'       : '^h[1-6]',
+    'TOC_RUN'           : 'true',
+    'TOC_INCLUDE_TITLE': 'false',
+}
 
-
-PLUGINS = [#"i18n_subsites",
-           "better_codeblock_line_numbering",
-           #~ 'better_figures_and_images',
-           'tipue_search',
-           'neighbors',
-           'series',
-           'bootstrapify',
-           "render_math",
-           'extract_toc',
-           'tag_cloud',
-           'sitemap',
-           'summary']
+PLUGINS = [  #"i18n_subsites",
+    "better_codeblock_line_numbering",
+    'tipue_search',
+    'neighbors',
+    'series',
+    'bootstrapify',
+    "render_math",
+    'tag_cloud',
+    'sitemap',
+    'summary'
+]
 
 SITEMAP = {
     'format': 'xml',
 }
 
 USE_LESS = False
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = False
