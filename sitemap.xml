@@ -5,22 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/</loc>
-<lastmod>2021-08-28T22:20:17-00:00</lastmod>
+<lastmod>2021-11-14T07:57:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/archives.html</loc>
-<lastmod>2021-08-28T22:20:17-00:00</lastmod>
+<lastmod>2021-11-14T07:57:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/categories.html</loc>
-<lastmod>2021-08-28T22:20:17-00:00</lastmod>
+<lastmod>2021-11-14T07:57:45-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/thought/AboutTime.html</loc>
+<lastmod>2021-11-14T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -313,14 +320,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/thought/index.html</loc>
-<lastmod>2021-08-28T00:00:00+08:06</lastmod>
+<lastmod>2021-11-14T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/tag/prose.html</loc>
-<lastmod>2021-08-28T00:00:00+08:06</lastmod>
+<lastmod>2021-11-14T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -355,7 +362,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/author/peipei.html</loc>
-<lastmod>2021-08-28T00:00:00+08:06</lastmod>
+<lastmod>2021-11-14T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
