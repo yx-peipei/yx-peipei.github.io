@@ -1,28 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>佩佩的小窝 - thought</title><link href="https://yx-peipei.github.io/" rel="alternate"></link><link href="https://yx-peipei.github.io/feeds/thought.atom.xml" rel="self"></link><id>https://yx-peipei.github.io/</id><updated>2021-11-14T00:00:00+08:00</updated><entry><title>About Time</title><link href="https://yx-peipei.github.io/thought/AboutTime.html" rel="alternate"></link><published>2021-11-14T00:00:00+08:00</published><updated>2021-11-14T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-11-14:/thought/AboutTime.html</id><summary type="html">&lt;p&gt;I am obsessed with the essence of time, because I have been searching for  the meaning of life for so long, because it is a very confusing matter. All of us interact with time on every single moment:  we are required to be on time, otherwise we cannot get to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I am obsessed with the essence of time, because I have been searching for  the meaning of life for so long, because it is a very confusing matter. All of us interact with time on every single moment:  we are required to be on time, otherwise we cannot get to the destination just by missing a train, or we would be blamed by the managers if a meeting was missed.  If someone asks me, where is the time? The prompt response is that time exists in the clicking of the clock. But time is not the clock, just as we cannot define a person by his measure.&lt;/p&gt;
 &lt;p&gt;Then after a second thought, I would say, time exists in the &lt;em&gt;change&lt;/em&gt;.The time is noticed in the change of the sun's position in the sky, from the east-end to the west, it was noticed in the change of the color of leaves,  from the light green to a yellow red, it is noticed in the change of our face from a soft new-born to a wrinkled old. It is very easy to ignore the flow of time until suddenly, we see the first wrinkle on the face; we would not realize there is not too much time remaining in our life until we see the first white  hair. If I were not to die, I wouldn't care about the time; it is just the fact that there is no eternity in the world, that we define the time, which is seems to be itself an eternal and irreversible flow from the past into the future.&lt;/p&gt;
-&lt;p&gt;But time is not the change, it comes with the change. We've been taught in the school, by Newtonian mechanism, to think about the world as a threatre stage, on which what happened to our life, and what is happening, are played. The stage is defined as the space, and the time is supposed to be an external clock. The clock is external, it is independent of the play, and it is flowing continuously. However, this image of time was destroyed in 20th century.  Einstein, who started his professional life as the time keeper in the train station, later published his research on the relativity, that there is no 'uniform' time in the world, the time interval for an object depends on its speed to the speed of light. The concept of flow of time was invalidated by an astonishing progress in quantum physics,  that the time is granular,  and that it has a minimum scale around $10^{-33}s$.&lt;/p&gt;
-&lt;p&gt;If time is not a uniform variable, it cannot be a fundamental variable in physics. The truth is, it is &lt;em&gt;indeed&lt;/em&gt; not. Schrödinger equation  &lt;sup id="fnref:bignote"&gt;&lt;a class="footnote-ref" href="#fn:bignote"&gt;1&lt;/a&gt;&lt;/sup&gt; put  the variable time with an imaginary number $i$, which is merely an imaginary small creature created the mathematicians. The imaginary number is imaginary is because it does not exist in the real world. Hence am I  allowed to make a bold conclusion that, time does not exist in &lt;em&gt;real&lt;/em&gt; world neither?&lt;/p&gt;
+&lt;p&gt;But time is not the change, it comes with the change. We've been taught in the school, by Newtonian mechanism, to think about the world as a threatre stage, on which what happened to our life, and what is happening, are played. The stage is defined as the space, and the time is supposed to be an external clock. The clock is external, it is independent of the play, and it is flowing continuously. However, this image of time was destroyed in 20th century.  Einstein, who started his professional life as the time keeper in the train station, later published his research on the relativity, that there is no 'uniform' time in the world, the time interval for an object depends on its speed to the speed of light. The concept of flow of time was invalidated by an astonishing progress in quantum physics,  that the time is granular,  and that it has a minimum scale around &lt;span class="math"&gt;\(10^{-33}s\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;If time is not a uniform variable, it cannot be a fundamental variable in physics. The truth is, it is &lt;em&gt;indeed&lt;/em&gt; not. Schrödinger equation  &lt;sup id="fnref:bignote"&gt;&lt;a class="footnote-ref" href="#fn:bignote"&gt;1&lt;/a&gt;&lt;/sup&gt; put  the variable time with an imaginary number &lt;span class="math"&gt;\(i\)&lt;/span&gt;, which is merely an imaginary small creature created the mathematicians. The imaginary number is imaginary is because it does not exist in the real world. Hence am I  allowed to make a bold conclusion that, time does not exist in &lt;em&gt;real&lt;/em&gt; world neither?&lt;/p&gt;
 &lt;p&gt;Time is surely the biggest lie that the world presents to us. By saying us, I am not referring to only the human, but also all the livings that we observe ion this planet.  We have seen from the telescope that the universe is expanding, by means of the Doppler effect, then we question ourselves, the universe should be smaller in the past than in the present; there must be in one moment when the world cannot be smaller, just as what was supposed by the  metaphysical illusion, there must be a reason which is the ultimate reason of all the casualty, the god says,  let there be light, and that the world was born, that the light comes out from nothing, that the time begins, that the universe is scrolled and unfolded. To describe the un-retrospective process, we even create a concept, the 'entropy', to describe all possible configurations of a system at a certain 'time' point. The great second law of thermodynamics law states that the entropy of any isolated system always increases. That is exactly what we infers from the hypothesis that the universe has the time, it has a singular point which is its origin of the universe, and that we have a future, we are running into that  disordered future.&lt;/p&gt;
 &lt;p&gt;But if the universe has its origin, what was the role of the quanta of time? We know that there is no such time zero, which is surely below to the plank scale of time.&lt;/p&gt;
 &lt;p&gt;And I feel a sense of arbitrary to obey the rule of increasing entropy. Why my world (and my life) has to be more and more disordered?&lt;/p&gt;
 &lt;p&gt;A potential reason is that, the definition of entropy is not complete.  Clausius was the first people presenting this idea, and this idea is that in the evolution of a thermodynamics,  the only way the observer can tell the difference between the past and the future is the heat was created (or transferred from the energy). Think about a ball movement, if it runs along a straight line forever, we then cannot mark the flow of time because the past and the future are the same; only when the ball slowed down because of the friction, that we realize the trace of time. Friction creates the heat, the thinking of human's brain also creates the heat, it is the fact that the heat was created so that the time was unveiled, by human's brain. And the irreversible progress to create the heat indicates the uni-direction of time, and Clausius gave the process a Greek representation:&lt;/p&gt;
-&lt;p&gt;$ \Delta S &amp;gt;=0 $  &lt;/p&gt;
-&lt;p&gt;Boltzmann thinks about this process in a more rigorous way. He is a statistician, so that are used to describe the world by the randomness and possibility. He defines $S$ as the configurations of all possible states for a given time for a given system, so that the increase of entropy means you will have a larger ensemble of possible states with time going. To define a system, you need to list all the descriptive variables and for each of the variable, all the possible values. Thus think about a system of the egg, originally it was put on the edge of the table. The state of the system is that the  positions of all the molecules are inside the egg,  no egg yolk or white was outside the egg: the configuration is very special. Now the egg was fallen on the floor, the shell was cracked, the molecules was spread out. The position of molecules is seemed to be more random. The molecules are the same, so physically you cannot distinguish one particle with another, so  the position of molecule A and molecule B can be exchanged while keeping the mess identical: therefore in phase space, we have more possible states to describe the messy situation. The fact that we cannot glue back the messy egg into its original state, when the egg yolk was constrained in the shell, unless the external energy is paid, is exactly the entropy increasing, and exactly why we can feel there is something irreversible, flowing into the future.  &lt;/p&gt;
+&lt;div class="math"&gt;$$\Delta S &amp;gt;=0$$&lt;/div&gt;
+&lt;p&gt;Boltzmann thinks about this process in a more rigorous way. He is a statistician, so that are used to describe the world by the randomness and possibility. He defines &lt;span class="math"&gt;\(S\)&lt;/span&gt; as the configurations of all possible states for a given time for a given system, so that the increase of entropy means you will have a larger ensemble of possible states with time going. To define a system, you need to list all the descriptive variables and for each of the variable, all the possible values. Thus think about a system of the egg, originally it was put on the edge of the table. The state of the system is that the  positions of all the molecules are inside the egg,  no egg yolk or white was outside the egg: the configuration is very special. Now the egg was fallen on the floor, the shell was cracked, the molecules was spread out. The position of molecules is seemed to be more random. The molecules are the same, so physically you cannot distinguish one particle with another, so  the position of molecule A and molecule B can be exchanged while keeping the mess identical: therefore in phase space, we have more possible states to describe the messy situation. The fact that we cannot glue back the messy egg into its original state, when the egg yolk was constrained in the shell, unless the external energy is paid, is exactly the entropy increasing, and exactly why we can feel there is something irreversible, flowing into the future.  &lt;/p&gt;
 &lt;p&gt;But there are two problems with Boatsman's definition. First one is that, if we trace back into the past, what was the most probable state from which the egg evolved to the current state,  being uniform and constrained perfectly in the shell?  By saying the possible states, that means the ensemble of the past is also larger than the current ensemble, so it means that the entropy was bigger in the past?!&lt;/p&gt;
 &lt;p&gt;The second one is that, to define the entropy,  people is required to list out  ALL the variables and all the possible values, which is as difficult as understanding the whole universe. What if the reason of entropy is always increasing, is because the system in which we live, is described with only a subset of variables, and our human being just happens to  live inside this  subset of the universe, so that we infers  that the universe has the same phenomena? I can imagine how the life inside a constant entropy world, it should be like Plato's World of Idea, everything is eternal, no time passing, energy keeps constant, no interactions and no heat creation; but I cannot imagine how the life looks like,  inside a world with the entropy decreasing, all reasons happen after the results perhaps? But in  overall, is it possible that the world has a constant entropy?&lt;/p&gt;
 &lt;p&gt;Kant should like the idea that there is no concept of time in the &lt;em&gt;idea&lt;/em&gt; world. In his 《Critique of Pure Reason》, he states that that time is a pure and a priori intuition that renders mathematics possible.Time and space cannot be regarded as existing in themselves. They are &lt;em&gt;a priori&lt;/em&gt; forms of sensible intuition. And intuition is people's original sin; intuition is the evidence that people have limited life and limited reason.&lt;/p&gt;
-&lt;p&gt;I don't believe in his time, Kant has any knowledge about the quanta of time or the critiques on the entropy. He lived in the world that Newtonian dominated people's thought, everybody thought the time and space as the stage that allows the happening of  events. But Kant thinks we have time and space is not because it really exist, it is out of our intuition; it is just this intuition is special and shared by all the human being. Perhaps the reason why we all shared the same intuition of time is the same as why all people have two legs and two eyes,  it was encrypted in the genes, probably not just from the time when  our Apes ancestor walking out the African, but since long ago.&lt;/p&gt;
+&lt;p&gt;I don't believe in his time, Kant has any knowledge about the quanta of time or the critiques on the entropy. He lived in the world that Newtonian dominated people's thought, everybody thought the time and space as the stage that allows the happening of  events. But Kant thinks we have time and space is not because it really exist, it is out of our intuition; it is just this intuition is special and shared by all the human being. Perhaps the reason why we all shared the same intuition of time is the same as why all people have two legs and two eyes,  it was encrypted in the genes, probably not just from the time when  our Apes ancestor walking out from Africa, but since long ago.&lt;/p&gt;
 &lt;div class="footnote"&gt;
 &lt;hr/&gt;
 &lt;ol&gt;
 &lt;li id="fn:bignote"&gt;
 &lt;p&gt;Schrödinger equation  describes the evolution of the wave function along the time. Basic idea is that every object is also a wave, the wave function is a probability of this object stays on a certain state. Strange thing is that the wave function evolves with an imaginary time in the below function:
-$i \hbar \frac{d}{dt} \psi = H \psi$
-After we know the form of $\psi$, we can get important properties such as energy, position, momentum, after applying some operators. The easiest system to solve is a single particle; but if looking at a system of particles, the combination of the wave function becomes difficult to compute. Similar idea with the 'Three Body Problem'. A recent field equation The Wheeler-Dewitt equation even removed the time $t$ outside of Schrödinger function because of the problem  of time. &lt;a class="footnote-backref" href="#fnref:bignote" title="Jump back to footnote 1 in the text"&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;div class="math"&gt;$$i \hbar \frac{d}{dt} \psi = H \psi$$&lt;/div&gt;
+After we know the form of &lt;span class="math"&gt;\(\psi\)&lt;/span&gt;, we can get important properties such as energy, position, momentum, after applying some operators. The easiest system to solve is a single particle; but if looking at a system of particles, the combination of the wave function becomes difficult to compute. Similar idea with the 'Three Body Problem'. A recent field equation The Wheeler-Dewitt equation even removed the time &lt;span class="math"&gt;\(t\)&lt;/span&gt; outside of Schrödinger function because of the problem  of time. &lt;a class="footnote-backref" href="#fnref:bignote" title="Jump back to footnote 1 in the text"&gt;↩&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content><category term="thought"></category><category term="Prose"></category></entry><entry><title>自然法则与自由意志</title><link href="https://yx-peipei.github.io/thought/%E8%87%AA%E7%84%B6%E6%B3%95%E5%88%99%E4%B8%8E%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97.html" rel="alternate"></link><published>2021-08-28T00:00:00+08:00</published><updated>2021-08-28T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-08-28:/thought/自然法则与自由意志.html</id><summary type="html">&lt;p&gt;三十岁的生日旅行，我临时起意来到了约克郡的Harrigate镇。我找到了自由。&lt;/p&gt;
+&lt;/div&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="thought"></category><category term="Prose"></category></entry><entry><title>自然法则与自由意志</title><link href="https://yx-peipei.github.io/thought/%E8%87%AA%E7%84%B6%E6%B3%95%E5%88%99%E4%B8%8E%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97.html" rel="alternate"></link><published>2021-08-28T00:00:00+08:00</published><updated>2021-08-28T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-08-28:/thought/自然法则与自由意志.html</id><summary type="html">&lt;p&gt;三十岁的生日旅行，我临时起意来到了约克郡的Harrigate镇。我找到了自由。&lt;/p&gt;
 &lt;p&gt;这种自由是不是肤浅的自由，它不是相对于身陷囹圄之人，普通人享有的随时来场说走就走旅行的行动自由；不是一个人被赋予的随在公众面前宣扬自己政治理念的言论自由；也不是法律赋予公民的可以享受自己财产的财产自由。它是人作为一种先验概念，上天赋予的先验自由。它是那种哪怕刀架在脖子上，我依然能够说出一个人该说出的话、继续做该做的事情的自由。这种自由是先于任何经验的非知识性存在，它的存在是一种信仰。&lt;/p&gt;
 &lt;p&gt;这种信仰不是宗教信仰，它不需要洗礼，更不需要仪式。它是理性经过思辨意识到它自身的边界后，谦卑地放下纯粹思辨的方法，而去接受的信仰。爱因斯坦因此在光速不变上提出广义相对论，欧几里得因此在几大公理上建立几何学大厦；光速不变和几何原理都是不可以再被进一步证明的，它们是先天感性，我们已达理性的尽头。正如康德所说的那句著名的话：&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;我不得不悬置知识，已给信仰腾出位置。&lt;/em&gt;&lt;/p&gt;
@@ -69,7 +131,7 @@ After we know the form of $\psi$, we can get important properties such as energy
 &lt;p&gt;算来算去，今年看过的书从数量上来说，比以往几年少了太多。物理学读了霍金的《The universe in a nutshell》、Roger Penrose 《Cycles of Time》，边吐槽边看完刘慈欣的《三体》；传统文化方面读完马恒君的《周易正宗》，钱穆的《宋代理学三书随劄》，经济（史）方面读完秦晖的《传统十论》，林毅夫的《中国经济专题》，Paulson的《Dealing with China》，正在阅读的有米尔恰 伊利亚德的《神圣的存在：比较宗教的范型》，陆南泉的《苏联真相：对101个重要问题的思考》。&lt;/p&gt;
 &lt;p&gt;正如在&lt;a href="https://yx-peipei.github.io/thought/2020%E5%A4%8F%E8%87%B3%E5%B7%B2%E8%87%B3.html"&gt;2020夏至已至&lt;/a&gt;写到的，早上不会再有在地铁上的晨读，Covid疫情下我今年的生活节奏发生了巨大的改变，没有了地铁上的开卷阅读，取而代之的是利用做饭时间在喜马拉雅和百家讲坛上听书。今年听的讲座倒是不少，听完了纪连海的《李莲英》、蒙曼的《武则天》，《长恨歌》，王立群读史记之《吕后》、《汉武帝》，康震的《苏轼》，百家讲坛早期节目《马未都说玉器》、《物理学之挑战》，哔哩哔哩张召忠讲解日军二战攻占南太平洋系列，现在正在听大宇茶馆的《细说宋朝》。跟听书相比，开卷胜在多一份思考，多一分牢固搭建的知识体系；听书则胜在趣味、胜在极大拓宽的知识广度。有点像烹饪美食，若是自己做着吃，那么对食材和用量就有更深刻的认识；若是去餐厅，有可能能发现别人的新创意。若想真正变成自己的东西，还得做个思考和总结。&lt;/p&gt;
 &lt;p&gt;今年在思想上最大的冲击有两个方面：一个是时间的渐进性和连续性，另外一个是时间的奇点。前一点是从对古今中外人物在人生各个节点的选择和历史趋势的发展上面感受到的， 第二点则是纯粹时空论物理的研究。我沉迷于对时间这个概念的思考，就借此小文整理一下我的思绪。&lt;/p&gt;
-&lt;h3&gt;时间的渐进性和连续性&lt;/h3&gt;
+&lt;h3 id="_1"&gt;时间的渐进性和连续性&lt;/h3&gt;
 &lt;p&gt;人们总倾向保存即时记忆和零星的最长期记忆。比如说，我能清楚记得今天学的东西，我也能完整复述很小很小的时候一些片段，比方说跟小董聪在院子里和泥巴捏坦克，风干后偷偷藏在沙发底下；却很少能完整描绘一年前都发生了什么。我们对于历史和民族的记忆也是这样。生活在21世纪，我们大多人都觉得中国是一个集体意识强大、重视社会伦理纲常的国家；社会组成以“小共同体”为本位，具体表现在中国农村的村名大多以族姓开头；村里德高望重的长辈（或乡绅）对于国家政策的表态和推行有可能胜过大队书记的软磨硬泡；认为中国是一个被孔子的儒家思想统治千年的国家；我们敬仰孔子这一大圣人，他创建了一套思想行为规范，并用这套规范牢牢团结了中华民族两千年之久，甚至在异族入侵中原后反过去同化入侵者，使得中华民族精神生生不息、经久不衰。然而，细细追溯历史，看得越多，就越觉得没什么是凭空生成的，没什么是经久不衰的，也没什么是彻底死去的。一切事物的生荣衰亡都是时间发酵的产物。&lt;/p&gt;
 &lt;p&gt;就拿儒学的演变来说，刚开始的儒教，也非孔子创立。孔子只不过是一个成长在鲁国，也就是周公旦封邑的青年而已。众所周知，周朝乃是分封制国家，周天子充其量是个精神首领，其实际权力连偏居一隅的梵蒂冈天主教教皇都不如。无实权的君主，只能用社会舆论、道德规范来束缚那些有狼子野心的封疆大吏；另一方面，分封制小国主要是以族群聚集，家庭成员的角色也需要一系列伦理来规定。逐渐地，周朝便形成了一系列礼制，除了规范道德行为，还增添很多具有象征意义的仪式，试图用仪式来加强民众内心的敬畏之情。中国人重仪式感，也是从此而来。&lt;/p&gt;
 &lt;p&gt;鲁国作为周公的封地，自然是保存周朝礼制最完整的地方。生于乱世长于鲁国的孔子，自然而然痴慕周朝制度，并立志于将其保存并发扬光大。如果说他的过人之处，第一点在于他爱学习，耄耋之年还能“韦编三绝”；第二点在于他“学而时习之”，把学过的几乎所有的东西都内化进入他的思想体系，连卜筮用的周易，都被他硬扯进来论证他的君子小人道德观；第三点便是他知道“十年树木，百年树人”，深知凭一己之力无法弘扬他的思想，需要招收一大堆学子学孙来帮助他完成。从最后一点来看，善战的墨家、善法的法家都不如他的深谋远虑。虽然儒教在春秋战国时期无法帮助国家迅速富强，但是他有幸撑到了汉朝，因为其他家思想中的凝聚力非常适合统治一个大一统的国家，再加上当时汉武帝需要通过思想大清洗来铲除信奉黄老之学的后党、功臣党的势力，儒教便第一次被定为国教。讽刺的是，汉武帝本不是一个重贤的明君，他的中央集权、穷兵黩武都体现了他是个酷爱法家的霸主，他的很多制度都承袭秦制，也就是李斯设计的那套法家制度。&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt; 第二点讽刺之处，董仲舒所提倡的儒学，也不再是纯粹的孔夫子之学。孔夫子只提倡一种有序的社会阶级制度，而汉武帝更看重的是董仲舒的“君权神授”思想，因为这个观点给了他的统治以合法性和正当性。从此之后，中国的皇帝在臣民心中便有了神化因素，实现了一种类似中世纪西欧小国的政教合一。&lt;/p&gt;
@@ -78,7 +140,7 @@ After we know the form of $\psi$, we can get important properties such as energy
 &lt;p&gt;自唐以来，儒家地位日渐式微。宋朝对文官的器重似乎给儒生带来一丝希望。然而宋朝的皇帝比较迷信神仙之道，喜欢道家那一套。孔老夫子果然有长远眼光，当年他痴迷易经，从那时起就奠定了道家融汇于儒学的基础。于是从北宋开始，就有周敦颐张横渠之辈的天人合一论，加之二程所在的洛党保守势力在朝中的崛起，儒学在宋朝开始死灰复燃。南宋的朱熹更把儒学延伸到了制度和政事之上，试图填平儒学思想的形而上与具体社稷民生的物质化之间的鸿沟。理学家们用“乾坤父母论”再度赢得封建皇帝的青睐。也是，哪个做子女的敢去反抗君父？&lt;/p&gt;
 &lt;p&gt;平心而论，被各朝各代改来改去的儒家以一种过于迷恋古制的本质上的愚蠢，极大阻碍了古代中国社会和经济的进步。生活在21世纪的我们再回过头思考，社会的发展是膨胀式前进的（有点类似于物理学第三定律：熵增原理），时间的不可逆导致信息量的单向增加；儒学竟对外部环境的改变视若无睹，企图用僵硬的社会关系去绊住历史前进的脚步。自是力不从心，所以自明朝直至清末统治者主要实现闭关锁国政策，直到被英国的火炮轰开国门。讽刺的是，火药技术是宋朝人发明并传至西方的啊！&lt;/p&gt;
 &lt;p&gt;及至如今，孔老夫子的儒家思想已经被改得面目全非。它原初的目的只是想复兴旧周礼制，追忆往昔人民和平相处的社会，然而在汉朝被统治阶级利用并添加了一些政治化因素，然后它自身为了生存糅合道家、佛教等其它的成分，最后到实在无法适应社会发展的节奏时，被近代五四运动和文化革命彻底打倒。但是它死了吗？其实没有，那种“忠义仁孝”的道德规范深植于每一个中国人心中。它还活着吗？也不尽然，在这个逐利的年代，孔老夫子的“罕言利”似乎变得苍白可笑；再者说，忠义仁孝也不仅存在于中国人的性格之中，西方文化中也有着“loyalty”, "respect"等相似的价值观。这是深植于人性上的元素，是得以流传至今的这些伟大思想所必须具备的。然而没有任何思想是完美的，那些不入流的部分，就让它沉寂在时间长河里面吧。&lt;/p&gt;
-&lt;h3&gt;时间的奇点&lt;/h3&gt;
+&lt;h3 id="_2"&gt;时间的奇点&lt;/h3&gt;
 &lt;p&gt;对天文物理有些了解的人，差不多都知道宇宙大爆炸发生在138亿年前。这个“事实”是基于一些天文上的观测：我们发现遥远星系不断离我们远去，发现了来自宇宙最远处（宇宙边界）的辐射。先做一个有失准确的描述，我们的宇宙在138亿年以前是个特别热特别热的奇点，突然爆炸了，之后像个气球一样不断膨胀；在膨胀过程中，不均质的空间在引力场作用下凝聚形成星云，近一步孕育星球。当星球内部核聚变爆发的能量不足以支撑引力坍塌后，有一部分又将终止于黑洞。黑洞将继续融合黑洞，宇宙会继续扩张。宇宙的膨胀将终止于何时，无从得知。&lt;/p&gt;
 &lt;p&gt;这是个令人舒服的宇宙观，因为它完全符合了人的时空直觉。但是这里面有几个令人无法忽视的漏洞：&lt;/p&gt;
 &lt;ol&gt;
@@ -95,20 +157,25 @@ After we know the form of $\psi$, we can get important properties such as energy
 &lt;p&gt;有人说，了解了黑洞，就是解密了宇宙。想象一下，我朝前扔一个石头，如果石头初始速度很慢，它会落在离我的脚很近的地方；若增加石头水平方向上的初始速度，它的落地点会变远。落地点距离取决于由于地球引力强弱（地球的质量/半径）和石头的速度。那么终究有一个初始速度，使得石头就不再落地，反而开始绕着地球运动，如同人造卫星；也终究有一个速度，石头会冲破地球的束缚却被太阳系束缚。黑洞就是这么一个存在，它使得运动速度最快的光，都无法挣脱它的束缚。如果一个物体不幸被黑洞攫取，那么我们观测到的时间变会在黑洞表面停滞（因为光速不变，物体发出的光在黑洞附近越走越慢，说明它的时间间隔在拉长），而在那个粒子看来，早就被吸进去了。黑洞吸引了粒子，它的能量会增加，温度也会增加，当它的温度大于宇宙背景温度时，根据热量总是从高向低传送，它必然会黑洞辐射（霍金根据量子的不确定性和虚空粒子对也作出同样的假说）。按照恒星演化假说，我们可以推出宇宙所有的物体在黑洞蒸发前会凝聚成一个终极宇宙大黑洞；那么接下来终极宇宙大黑洞的爆发，会不会又是一场宇宙大爆炸呢？&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;非欧几何&lt;/h4&gt;
+&lt;h4 id="_3"&gt;非欧几何&lt;/h4&gt;
 &lt;p&gt;如此这般，直接挑战传统的欧几里得几何。欧氏几何的背景是近似的现实世界，五条公设也全都基于现实几何的经验；其中第五公设&lt;sup id="fnref:4"&gt;&lt;a class="footnote-ref" href="#fn:4"&gt;4&lt;/a&gt;&lt;/sup&gt;最复杂，也是研究最多的。当罗切夫斯基、高斯、庞加莱无法证明这条公设时，非欧几何就此诞生。非欧氏几何产生于非欧式空间，非欧式空间可以理解成扭曲了的欧式空间，只是它的坐标轴不尽然是直线，或者坐标轴之间并不正交（即不成90度）。那么非欧几何和这“膨胀”的宇宙论直接有什么关系呢？&lt;/p&gt;
-&lt;p&gt;拿两点之间的距离表达为例：欧式空间中的球面，对于在球面上爬行的蚂蚁来说就是非欧式空间的平面，它们在爬行的过程中不会感觉到球面的弯曲。当然在这样的一个球面上，欧式几何也不再成立，譬如：三角形的内角和不再是180度，而球面上两点之间的最短距离也不再是两点之间的连线（因为这时两点之间的的线段根本不经过球面）。如果一个球面是凸出来，那么在欧氏空间的观测者看来，蚂蚁在单位时间走过的距离变短，但其实蚂蚁看来，它的距离是恒定的。数学家由此定义，这种球面的曲率为正。那么对上面第二条疑问，我们会不会可以用以下解释：其实欧氏几何只是因为符合我们的直观认识，而真正的宇宙几何是属于广泛的非欧几何，只是它的曲率在随着时间而变化，目前正属于为曲率为负的双曲几何范畴呢？有意思的是，这个曲率似乎跟爱因斯坦广义相对论中的宇宙常数 $\Lambda$ 相关，也与暗能量紧密结合。&lt;/p&gt;
-&lt;h4&gt;保角变换&lt;/h4&gt;
-&lt;p&gt;一个美的物理规律，它应该是对任何观测者都是有效的。&lt;sup id="fnref:5"&gt;&lt;a class="footnote-ref" href="#fn:5"&gt;5&lt;/a&gt;&lt;/sup&gt;  如果一个时间的框架是这样建立的：伦敦和纽约各自开始放烟火，在地球上的观测者观测烟火同 &lt;strong&gt;时&lt;/strong&gt; 点燃，而在从伦敦到纽约飞行的乘客看来不同 &lt;strong&gt;时&lt;/strong&gt; ，这个时间的定义就是需要重新被审视。传统的时空观就是这样，在洛伦兹变换下，我们就会推出飞机上的观测者确确实实观测到纽约的烟花先被点燃。这就是爱因斯坦的狭义相对论所挑战的传统时间模型。一般的科幻小说把第四维空间描述成三维空间+时间轴，其实是一种对闵可夫斯基空间的误解。首先，时间的产生是由于质量的存在，所以光子就没有时间的概念。这一点可以由简单的公式就能推出。量子力学中有德布罗意波，也就是粒子的物质波；有波动就有频率，它的频率$\nu$，与粒子的能量关系为
- $$E  = h\nu$$
-$h$ 是普朗克常数，是量子化中的类似最小分割单位的概念。另一方面，爱因斯坦家喻户晓的能量光速关系为：
-$$E = mc^{2}$$
+&lt;p&gt;拿两点之间的距离表达为例：欧式空间中的球面，对于在球面上爬行的蚂蚁来说就是非欧式空间的平面，它们在爬行的过程中不会感觉到球面的弯曲。当然在这样的一个球面上，欧式几何也不再成立，譬如：三角形的内角和不再是180度，而球面上两点之间的最短距离也不再是两点之间的连线（因为这时两点之间的的线段根本不经过球面）。如果一个球面是凸出来，那么在欧氏空间的观测者看来，蚂蚁在单位时间走过的距离变短，但其实蚂蚁看来，它的距离是恒定的。数学家由此定义，这种球面的曲率为正。那么对上面第二条疑问，我们会不会可以用以下解释：其实欧氏几何只是因为符合我们的直观认识，而真正的宇宙几何是属于广泛的非欧几何，只是它的曲率在随着时间而变化，目前正属于为曲率为负的双曲几何范畴呢？有意思的是，这个曲率似乎跟爱因斯坦广义相对论中的宇宙常数 &lt;span class="math"&gt;\(\Lambda\)&lt;/span&gt; 相关，也与暗能量紧密结合。&lt;/p&gt;
+&lt;h4 id="_4"&gt;保角变换&lt;/h4&gt;
+&lt;p&gt;一个美的物理规律，它应该是对任何观测者都是有效的。&lt;sup id="fnref:5"&gt;&lt;a class="footnote-ref" href="#fn:5"&gt;5&lt;/a&gt;&lt;/sup&gt;  如果一个时间的框架是这样建立的：伦敦和纽约各自开始放烟火，在地球上的观测者观测烟火同 &lt;strong&gt;时&lt;/strong&gt; 点燃，而在从伦敦到纽约飞行的乘客看来不同 &lt;strong&gt;时&lt;/strong&gt; ，这个时间的定义就是需要重新被审视。传统的时空观就是这样，在洛伦兹变换下，我们就会推出飞机上的观测者确确实实观测到纽约的烟花先被点燃。这就是爱因斯坦的狭义相对论所挑战的传统时间模型。一般的科幻小说把第四维空间描述成三维空间+时间轴，其实是一种对闵可夫斯基空间的误解。首先，时间的产生是由于质量的存在，所以光子就没有时间的概念。这一点可以由简单的公式就能推出。量子力学中有德布罗意波，也就是粒子的物质波；有波动就有频率，它的频率&lt;span class="math"&gt;\(\nu\)&lt;/span&gt;，与粒子的能量关系为
+ &lt;/p&gt;
+&lt;div class="math"&gt;$$E  = h\nu$$&lt;/div&gt;
+&lt;p&gt;
+&lt;span class="math"&gt;\(h\)&lt;/span&gt; 是普朗克常数，是量子化中的类似最小分割单位的概念。另一方面，爱因斯坦家喻户晓的能量光速关系为：
+&lt;/p&gt;
+&lt;div class="math"&gt;$$E = mc^{2}$$&lt;/div&gt;
+&lt;p&gt;
 两者相等，就能推出物质波的频率与质量成正比：
-$$\nu = \frac{c^{2} }{h} m$$&lt;/p&gt;
-&lt;p&gt;有点力学常识的人都知道，频率是单位时间波源的震动次数，所以粒子的质量越大，它的时间间隔就越小；反之亦然。电子很轻了吧，它的质量是到了$10^{-19}$量级，应该说，电子的时间就比人类的纪年慢很多；而光子的无质量，造就了它的无时间观念。换言之，宇宙的出生和死亡，对光子来说，是同 &lt;strong&gt;时&lt;/strong&gt; 发生的。另一个无质量的“存在”是引力子。引力子和光子从宇宙刚开始就相互竞争，引力场使得光波扭曲，而光子带走引力场的能量。&lt;/p&gt;
+&lt;/p&gt;
+&lt;div class="math"&gt;$$\\nu = \frac{c^{2} }{h} m$$&lt;/div&gt;
+&lt;p&gt;有点力学常识的人都知道，频率是单位时间波源的震动次数，所以粒子的质量越大，它的时间间隔就越小；反之亦然。电子很轻了吧，它的质量是到了&lt;span class="math"&gt;\(10^{-19}\)&lt;/span&gt;量级，应该说，电子的时间就比人类的纪年慢很多；而光子的无质量，造就了它的无时间观念。换言之，宇宙的出生和死亡，对光子来说，是同 &lt;strong&gt;时&lt;/strong&gt; 发生的。另一个无质量的“存在”是引力子。引力子和光子从宇宙刚开始就相互竞争，引力场使得光波扭曲，而光子带走引力场的能量。&lt;/p&gt;
 &lt;p&gt;那么为了摆脱这种速度和距离（空间、时间）的相对性，我们就必须寻找更一般的坐标系，在这个坐标系中距离的概念需要被忽略，那么只会剩下角度。这就是数学里的 &lt;em&gt;保角变换&lt;/em&gt; ：物理定律从两个满足保角关系的坐标系之下是等价的。这就好比我有两个妙脆角，虽然一个大一个小，然而只要两者的锥角是一样的，那么这两个坐标系间的变换就满足保角变换。
 &lt;img alt="妙脆角" class="img-responsive" src="/images/conformal_妙脆角.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;Penrose在《Cycles of time》就提出了满足保角变换的时空图。在这个图中，水平的两个角为空间的无限远，即空间奇点；竖直的两个角为过去和未来无限远处，也就是时间的奇点。photon ray 规定了光线的轨迹，它在黑洞外是以45度角扩散；在黑洞里面便是束缚在黑洞视界内部往远处延伸。黑洞也是奇点。对于图上的每一个点都能画一个这种光锥，由于光速最大，任何其他粒子的运动轨迹只能在在小光锥内（每个光锥就是闵柯夫斯基空间的世界线）。在光锥外的事件，则违反了因果律。而光锥是双向的，向上延伸到未来的尽头 $\Gamma^{+}$，在 $\Gamma^{+}$ 划出从此点开始满足因果律的所有可能事件：向下追溯到过去的尽头$\mathscr{B}^{-}$，也就是宇宙的起源，并在 $\mathscr{B}^{-}$ 发现自己原来的所有可能。我不禁想到，原来时间是双向的；我现在面临的所有选择，是可以改变我的’过去‘，而我此刻所做的任何选择，也会对我的可能的未来，规定界域。
+&lt;p&gt;Penrose在《Cycles of time》就提出了满足保角变换的时空图。在这个图中，水平的两个角为空间的无限远，即空间奇点；竖直的两个角为过去和未来无限远处，也就是时间的奇点。photon ray 规定了光线的轨迹，它在黑洞外是以45度角扩散；在黑洞里面便是束缚在黑洞视界内部往远处延伸。黑洞也是奇点。对于图上的每一个点都能画一个这种光锥，由于光速最大，任何其他粒子的运动轨迹只能在在小光锥内（每个光锥就是闵柯夫斯基空间的世界线）。在光锥外的事件，则违反了因果律。而光锥是双向的，向上延伸到未来的尽头 &lt;span class="math"&gt;\(\Gamma^{+}\)&lt;/span&gt;，在 &lt;span class="math"&gt;\(\Gamma^{+}\)&lt;/span&gt; 划出从此点开始满足因果律的所有可能事件：向下追溯到过去的尽头&lt;span class="math"&gt;\(\mathscr{B}^{-}\)&lt;/span&gt;，也就是宇宙的起源，并在 &lt;span class="math"&gt;\(\mathscr{B}^{-}\)&lt;/span&gt; 发现自己原来的所有可能。我不禁想到，原来时间是双向的；我现在面临的所有选择，是可以改变我的’过去‘，而我此刻所做的任何选择，也会对我的可能的未来，规定界域。
 &lt;img alt="时空图" class="img-responsive" src="/images/PenroseRogers_spaceTime.png"/&gt;&lt;/p&gt;
 &lt;p&gt;这本书涉及了大量量子场论和微分几何的知识，我读得很艰辛，似懂非懂的。但我痴迷于此，不仅因为我对物理学那种发自内心的“傻瓜式”热爱，而且也因为对于时间的思考给了我对人事更超然的认识。逝去的时间在我看来永远逝去了，它就像酒窖一样，人世间所有的爱恨嗔痴、荣辱兴衰，都在里面慢慢发酵，变了味道，到最后真伪难辨；但时间却又是那么主观，它本身就有种相对性，而人一直在欺骗自己，以为它是真实存在的。&lt;/p&gt;
 &lt;div class="footnote"&gt;
@@ -130,7 +197,69 @@ $$\nu = \frac{c^{2} }{h} m$$&lt;/p&gt;
 &lt;p&gt;广义相对论的第二条假设 &lt;a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text"&gt;↩&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content><category term="thought"></category><category term="Prose"></category></entry><entry><title>杂说文化——三个层次三个主体</title><link href="https://yx-peipei.github.io/thought/%E6%9D%82%E8%AF%B4%E6%96%87%E5%8C%96%E2%80%94%E2%80%94%E4%B8%89%E4%B8%AA%E5%B1%82%E6%AC%A1%E4%B8%89%E4%B8%AA%E4%B8%BB%E4%BD%93.html" rel="alternate"></link><published>2020-09-30T00:00:00+08:00</published><updated>2020-09-30T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2020-09-30:/thought/杂说文化——三个层次三个主体.html</id><summary type="html">&lt;p&gt;我对三这个数字有种特殊的感情，可能来源于中国文化中的：一（法）生二（阴阳），二（阴阳）生三（三爻），三生万物。我觉得三是个完美的状态，因为第三个数字的存在，它在两个极端状态之中有了一种缓和，自带中庸的和解状态，和传统西方的二元论形成鲜明对比。很多时候中国人不分孰对孰错，凡事讲究个“三足鼎立”的制约平衡，这种“三”的思想竟与黑格尔的“正反合”不谋而合呢！&lt;/p&gt;
+&lt;/div&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="thought"></category><category term="Prose"></category></entry><entry><title>杂说文化——三个层次三个主体</title><link href="https://yx-peipei.github.io/thought/%E6%9D%82%E8%AF%B4%E6%96%87%E5%8C%96%E2%80%94%E2%80%94%E4%B8%89%E4%B8%AA%E5%B1%82%E6%AC%A1%E4%B8%89%E4%B8%AA%E4%B8%BB%E4%BD%93.html" rel="alternate"></link><published>2020-09-30T00:00:00+08:00</published><updated>2020-09-30T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2020-09-30:/thought/杂说文化——三个层次三个主体.html</id><summary type="html">&lt;p&gt;我对三这个数字有种特殊的感情，可能来源于中国文化中的：一（法）生二（阴阳），二（阴阳）生三（三爻），三生万物。我觉得三是个完美的状态，因为第三个数字的存在，它在两个极端状态之中有了一种缓和，自带中庸的和解状态，和传统西方的二元论形成鲜明对比。很多时候中国人不分孰对孰错，凡事讲究个“三足鼎立”的制约平衡，这种“三”的思想竟与黑格尔的“正反合”不谋而合呢！&lt;/p&gt;
 &lt;p&gt;所以当首次接触到Malinowski的文化三元论时，我有着来自意识深处的认同感。他说文化是三个层次的有机结合：最低的层次是器物，包括能看到的各种有形物质，比如刀枪、车马、吃饭的筷子和刀叉等；第二个层次是制度和是组织，比如银行体系、教育体系、政治体系等都属于这个层次。第三个层次是精神或伦理价值，也就是行为规范，即对好坏的判断。这比马克思的“经济基础决定上层建筑”的二元论论调多了一种世俗层面的缓和。如果说Malinowsk三元论里器物工具是物质基础，价值意识形态是控制中枢，那么组织制度便像是具体实施方法，是让机体实现运转的机制。近代中国洋务运动口号为“师夷长技以制夷”，洋务派大臣便是看到了西方文化中器物方面优势 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;我对三这个数字有种特殊的感情，可能来源于中国文化中的：一（法）生二（阴阳），二（阴阳）生三（三爻），三生万物。我觉得三是个完美的状态，因为第三个数字的存在，它在两个极端状态之中有了一种缓和，自带中庸的和解状态，和传统西方的二元论形成鲜明对比。很多时候中国人不分孰对孰错，凡事讲究个“三足鼎立”的制约平衡，这种“三”的思想竟与黑格尔的“正反合”不谋而合呢！&lt;/p&gt;
 &lt;p&gt;所以当首次接触到Malinowski的文化三元论时，我有着来自意识深处的认同感。他说文化是三个层次的有机结合：最低的层次是器物，包括能看到的各种有形物质，比如刀枪、车马、吃饭的筷子和刀叉等；第二个层次是制度和是组织，比如银行体系、教育体系、政治体系等都属于这个层次。第三个层次是精神或伦理价值，也就是行为规范，即对好坏的判断。这比马克思的“经济基础决定上层建筑”的二元论论调多了一种世俗层面的缓和。如果说Malinowsk三元论里器物工具是物质基础，价值意识形态是控制中枢，那么组织制度便像是具体实施方法，是让机体实现运转的机制。近代中国洋务运动口号为“师夷长技以制夷”，洋务派大臣便是看到了西方文化中器物方面优势。无独有偶，日本的明治维新也是在西方海军舰队压力下被迫开放门户后、爱国志士的救国反思后开展；与中国不同的是，日本提出还政天皇、君主立宪的思想以促进资产阶级发展，其实这说明了明治维新更多在制度方面进行了改革；好笑的是，这仿佛与它这个“尚物”民族的人设不太符合。就结果而言，日本的富国强兵之路更加通畅，短短百年内打败俄罗斯，跻身世界霸国之列；反观中国，洋务派买了这么多军舰、建了那么多机器制造厂，在甲午中日海战中，灰飞烟灭。&lt;/p&gt;
 &lt;p&gt;历史学者从很多方面进行阐述洋务运动的失败原因，《全球通史》的作者Staviranos认为西方的技术是为了服务于西方的的思想制度，西方的科学不可能用来维护儒家的文明。个人愚见，中国但凡改革，都会有借改革之名不计一切排挤政敌的政治投机分子，洋务运动也是如此。洋务派大臣基本都是慈禧派，光绪皇帝等保皇派必然会千方百计给洋务运动挑刺儿来削弱慈禧那派大臣势力。洋务派大臣也并非真正想在帝国主义威胁下重振中华之雄风，很大程度也是为了镇压太平天国起义。一句话，权力没有在洋务运动的真正受益者手中掌握，皮毛式改革必将波折重重，胎死腹中。&lt;/p&gt;

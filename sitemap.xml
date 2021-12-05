@@ -5,22 +5,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/</loc>
-<lastmod>2021-11-14T11:41:39-00:00</lastmod>
+<lastmod>2021-12-05T17:42:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/archives.html</loc>
-<lastmod>2021-11-14T11:41:39-00:00</lastmod>
+<lastmod>2021-12-05T17:42:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/categories.html</loc>
-<lastmod>2021-11-14T11:41:39-00:00</lastmod>
+<lastmod>2021-12-05T17:42:08-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/tax/03资产利得税.html</loc>
+<lastmod>2021-12-05T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/tax/04遗产税.html</loc>
+<lastmod>2021-12-05T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/tax/05建立信托.html</loc>
+<lastmod>2021-12-05T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/tax/01税种说明.html</loc>
+<lastmod>2021-12-04T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/tax/02个人所得税.html</loc>
+<lastmod>2021-12-04T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -83,13 +118,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://yx-peipei.github.io/thought/2020夏至已至.html</loc>
 <lastmod>2020-06-21T00:00:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://yx-peipei.github.io/others/Keep fit during Corona  lockdown.html</loc>
-<lastmod>2020-05-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -306,7 +334,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/others/index.html</loc>
-<lastmod>2020-05-01T00:00:00+08:06</lastmod>
+<lastmod>2020-03-22T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -319,8 +347,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://yx-peipei.github.io/tax/index.html</loc>
+<lastmod>2021-12-05T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://yx-peipei.github.io/thought/index.html</loc>
 <lastmod>2021-11-14T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/tag/tax.html</loc>
+<lastmod>2021-12-05T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -341,7 +383,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/tag/lifestyle.html</loc>
-<lastmod>2020-05-01T00:00:00+08:06</lastmod>
+<lastmod>2020-03-22T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -362,7 +404,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/author/peipei.html</loc>
-<lastmod>2021-11-14T00:00:00+08:06</lastmod>
+<lastmod>2021-12-05T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
