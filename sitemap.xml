@@ -5,22 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/</loc>
-<lastmod>2021-12-05T18:02:39-00:00</lastmod>
+<lastmod>2021-12-19T17:36:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/archives.html</loc>
-<lastmod>2021-12-05T18:02:39-00:00</lastmod>
+<lastmod>2021-12-19T17:36:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/categories.html</loc>
-<lastmod>2021-12-05T18:02:39-00:00</lastmod>
+<lastmod>2021-12-19T17:36:22-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/reading/Home Truths.html</loc>
+<lastmod>2021-12-19T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/tax/06英国税务.html</loc>
+<lastmod>2021-12-11T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -341,14 +355,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/reading/index.html</loc>
-<lastmod>2021-01-22T00:00:00+08:06</lastmod>
+<lastmod>2021-12-19T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/tax/index.html</loc>
-<lastmod>2021-12-05T00:00:00+08:06</lastmod>
+<lastmod>2021-12-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -361,8 +375,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://yx-peipei.github.io/tag/reading.html</loc>
+<lastmod>2021-12-19T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://yx-peipei.github.io/tag/tax.html</loc>
-<lastmod>2021-12-05T00:00:00+08:06</lastmod>
+<lastmod>2021-12-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -370,13 +391,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://yx-peipei.github.io/tag/prose.html</loc>
 <lastmod>2021-11-14T00:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://yx-peipei.github.io/tag/reading.html</loc>
-<lastmod>2021-01-22T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -404,7 +418,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/author/peipei.html</loc>
-<lastmod>2021-12-05T00:00:00+08:06</lastmod>
+<lastmod>2021-12-19T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

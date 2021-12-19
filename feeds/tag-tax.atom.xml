@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>佩佩的小窝 - tax</title><link href="https://yx-peipei.github.io/" rel="alternate"></link><link href="https://yx-peipei.github.io/feeds/tag-tax.atom.xml" rel="self"></link><id>https://yx-peipei.github.io/</id><updated>2021-12-05T00:00:00+08:00</updated><entry><title>03资产利得税</title><link href="https://yx-peipei.github.io/tax/03%E8%B5%84%E4%BA%A7%E5%88%A9%E5%BE%97%E7%A8%8E.html" rel="alternate"></link><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-05:/tax/03资产利得税.html</id><summary type="html">&lt;p&gt;很多童鞋会问，平时买卖股票、交易二手商品赚到的钱要不要交税。先假定你不是专职做这种买卖，那么很有可能这些获利要上税。这里涉及的税种是capital gain tax，Y小姐的翻译是资产利得税。下面分成几个方面来给大家扫扫盲。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>佩佩的小窝 - tax</title><link href="https://yx-peipei.github.io/" rel="alternate"></link><link href="https://yx-peipei.github.io/feeds/tag-tax.atom.xml" rel="self"></link><id>https://yx-peipei.github.io/</id><updated>2021-12-11T00:00:00+08:00</updated><entry><title>06英国税务|我的海外收入该不该上税</title><link href="https://yx-peipei.github.io/tax/06%E8%8B%B1%E5%9B%BD%E7%A8%8E%E5%8A%A1.html" rel="alternate"></link><published>2021-12-11T00:00:00+08:00</published><updated>2021-12-11T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-11:/tax/06英国税务.html</id><summary type="html">&lt;p&gt;平时小伙伴可能会问：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我的雇主是英国公司，但今年有被派去去国外出差。在国外出差期间的工作收入算是海外收入吗？需要交英国的收入税吗？&lt;/li&gt;
+&lt;li&gt;今年有开始给国外的公司线上工作，这笔收入算海外收入吗？&lt;/li&gt;
+&lt;li&gt;我从国内自己的支付宝转了一笔钱到了英国账户，要不要在年底报税的时候告知HMRC，要不要上税？&lt;/li&gt;
+&lt;li&gt;今年买了房子，首付是爸爸妈妈出的，打到了我的英国账户上。这笔钱算是我的收入吗，需不需要交税？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Y小姐先简要给大家答案，之后再介绍一下相关的其它规定。&lt;/p&gt;
+&lt;h3 id="q"&gt;Q: 我的雇主是英国公司，但今年有被派去去国外出差。自国外出差的工作收入算是海外收入吗？&lt;/h3&gt;
+&lt;p&gt;虽人在国外出差，但因为雇主是UK resident，那么那几天的收入不是海外收入。&lt;/p&gt;
+&lt;p&gt;但只有一个例外，雇主是uk employer，但也可以享受出差收入不上税的优惠，那就是个人在成为英国税民的前三年内的海外出差收入。相关的优惠叫做&lt;a href="https://www.gov.uk/government/publications/rdr4-overseas-workday-relief-owr"&gt;Oversea Workday Relief&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;这里会涉及雇主的domicile和residence的问题。如果雇主是个体户的话比较好理解，就是雇主本身的domicile, 请参考我的扫盲文&lt;a href="https://yx-peipei.github.io/tax/02%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E.html"&gt;个人收入税&lt;/a&gt;；如果雇主是公司的话，它的residence在UK domestic law也有专门规定。一般来说下面情况下，公司被归为uk resident:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在英国注册成立，或者&lt;/li&gt;
+&lt;li&gt;主要控制者在英国，it …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;平时小伙伴可能会问：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我的雇主是英国公司，但今年有被派去去国外出差。在国外出差期间的工作收入算是海外收入吗？需要交英国的收入税吗？&lt;/li&gt;
+&lt;li&gt;今年有开始给国外的公司线上工作，这笔收入算海外收入吗？&lt;/li&gt;
+&lt;li&gt;我从国内自己的支付宝转了一笔钱到了英国账户，要不要在年底报税的时候告知HMRC，要不要上税？&lt;/li&gt;
+&lt;li&gt;今年买了房子，首付是爸爸妈妈出的，打到了我的英国账户上。这笔钱算是我的收入吗，需不需要交税？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Y小姐先简要给大家答案，之后再介绍一下相关的其它规定。&lt;/p&gt;
+&lt;h3 id="q"&gt;Q: 我的雇主是英国公司，但今年有被派去去国外出差。自国外出差的工作收入算是海外收入吗？&lt;/h3&gt;
+&lt;p&gt;虽人在国外出差，但因为雇主是UK resident，那么那几天的收入不是海外收入。&lt;/p&gt;
+&lt;p&gt;但只有一个例外，雇主是uk employer，但也可以享受出差收入不上税的优惠，那就是个人在成为英国税民的前三年内的海外出差收入。相关的优惠叫做&lt;a href="https://www.gov.uk/government/publications/rdr4-overseas-workday-relief-owr"&gt;Oversea Workday Relief&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;这里会涉及雇主的domicile和residence的问题。如果雇主是个体户的话比较好理解，就是雇主本身的domicile, 请参考我的扫盲文&lt;a href="https://yx-peipei.github.io/tax/02%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E.html"&gt;个人收入税&lt;/a&gt;；如果雇主是公司的话，它的residence在UK domestic law也有专门规定。一般来说下面情况下，公司被归为uk resident:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在英国注册成立，或者&lt;/li&gt;
+&lt;li&gt;主要控制者在英国，it is a question of fact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;它跟公司股票的注册地没有必然联系，后者跟小伙伴手上的股票资产利得税有关，大家不要搞混了哦。&lt;/p&gt;
+&lt;h3 id="q_1"&gt;Q: 线上给国外的公司工作，这笔收入算海外收入吗？&lt;/h3&gt;
+&lt;p&gt;雇主虽是non-uk resident，但人如果身在英国，那么这笔收入是uk income。&lt;/p&gt;
+&lt;h3 id="q_2"&gt;Q: 从国内自己的支付宝转了一笔钱到了英国账户，需不需要上税？&lt;/h3&gt;
+&lt;p&gt;一些情况下不需要告知HMRC也不上税。条件包括：
+* 转过来的钱是以前的积蓄，而非成为英国税民后的收入
+* 小伙伴在成为英国税民后，这个支付宝账户也没有任何收入进入，包括工作所得、利息、生意所得、分红等。
+* 支付宝的钱没有被当成任何uk贷款的保证金，简单例子就是，在申请英国房屋贷款的时候没有作为bank statement给银行出示
+* 小伙伴是Non-UK domicile&lt;/p&gt;
+&lt;p&gt;上面三条是保证这个账户是clean capital account，即这个账户只能存放来到英国之前的海外收入和海外资产。如果账户不小心掺杂了任何其它收入，在税务上就被当成'mixed fund'，那么你打回英国的那笔钱被当成先从之后产生的收入里面出。&lt;/p&gt;
+&lt;p&gt;这时候就应该告知HMRC这笔钱是来自海外收入。按照remittance basis的规定，如果选择了remittance basis, 首先丧失每年的免税额度，然后这笔钱要上Non Savings income的边际税率。而且如果在英国待的时间超过5个税年，还会有相应的RBC的charge。
+如果选择remittance basis，那么就要上英国的收入税。&lt;/p&gt;
+&lt;p&gt;所以从国内自己的账户转钱给英国的账户，一定要小心这笔钱的来源。&lt;/p&gt;
+&lt;h3 id="q_3"&gt;Q: 亲友转给我英国账户一笔钱，需不需要交税？&lt;/h3&gt;
+&lt;p&gt;不需要交税，也不需要告知HMRC。&lt;/p&gt;
+&lt;p&gt;亲友的银行转账是礼物赠予，不算是受赠人的收入。亲友赠予在一些情况下需要上&lt;a href="https://yx-peipei.github.io/tax/04%E9%81%97%E4%BA%A7%E7%A8%8E.html"&gt;遗产税&lt;/a&gt;，但身在国内的亲友转账给自己，除非亲友是UK resident and UK domicile，这个转账会被归类为except asset transfer，本来就不在英国的遗产税管辖范围内，所以小伙伴既不用担心收入税的问题，也不用担心遗产礼物税的问题。&lt;/p&gt;
+&lt;p&gt;从上面的问题可以看出来，oversea income不完全是指在海外运营的收入，它跟雇主的税民身份和个人的具体工作地也有关系。一般说来，海外收入是指：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Employment duties wholly or partly in the UK but duties performed outside the UK&lt;/li&gt;
+&lt;li&gt;Employment duties wholly outside the UK with overseas resident employer&lt;/li&gt;
+&lt;li&gt;Trade or profession wholly or partly in the UK with profits arising outside the UK&lt;/li&gt;
+&lt;li&gt;Trade or profession carried on wholly outside the UK&lt;/li&gt;
+&lt;li&gt;Non-UK (overseas) pension  &lt;/li&gt;
+&lt;li&gt;Investment income from a non UK source&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些收入通通需要告知HMRC。至于上不上税，这就要看是否打回到英国账户以及是否选择remittance basis。如果选择了remittance basis，留在海外没有拿回英国的收入不需要上Uk income tax， 只有拿回来的需要上税。若收入在海外国家已经上过税，小伙伴可以claim the DTR(double tax relief)。&lt;/p&gt;
+&lt;p&gt;如果海外收入当年没有拿回英国，之后才拿回，那么在拿回来的那一年需要告知HMRC且上这部分的收入税。&lt;/p&gt;
+&lt;p&gt;海外收入不按照来源，通通按照Non-Savings income上20%/40%/45%的英国税率。&lt;/p&gt;
+&lt;p&gt;如果那一个税年未拿回的海外收入若是小于£2000，remittance basis自动成立，而且本人的personal allowance和capital gain annual exemption可以保留。&lt;/p&gt;</content><category term="tax"></category><category term="tax"></category></entry><entry><title>03资产利得税</title><link href="https://yx-peipei.github.io/tax/03%E8%B5%84%E4%BA%A7%E5%88%A9%E5%BE%97%E7%A8%8E.html" rel="alternate"></link><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-05:/tax/03资产利得税.html</id><summary type="html">&lt;p&gt;很多童鞋会问，平时买卖股票、交易二手商品赚到的钱要不要交税。先假定你不是专职做这种买卖，那么很有可能这些获利要上税。这里涉及的税种是capital gain tax，Y小姐的翻译是资产利得税。下面分成几个方面来给大家扫扫盲。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="#概括"&gt;概括&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#计算方法"&gt;计算方法&lt;/a&gt;&lt;/li&gt;
@@ -304,7 +362,7 @@
 &lt;p&gt;既然信托是一个为了财产所属创造的“人”，那么一般的individual所面临的income tax, capital gain tax, inheritance tax它也会遇到。征税范围和报税流程上来说，信托基金与个人大致是一样的，但税率有较大的区别。
 下面几个表格给大家划出来一些重点。无特别说明的情况下，信托是包括IIP和discretionary trust。bare trust的收入税、资产利得税和遗产税还是在委托人身上做assessment.&lt;/p&gt;
 &lt;h3 id="_4"&gt;收入税&lt;/h3&gt;
-&lt;table class=" table-striped table table-hover"&gt;
+&lt;table class="table-hover table  table-striped"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -346,7 +404,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id="_5"&gt;资产获利税&lt;/h3&gt;
-&lt;table class=" table-striped table table-hover"&gt;
+&lt;table class="table-hover table  table-striped"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -388,7 +446,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id="_6"&gt;遗产税&lt;/h3&gt;
-&lt;table class=" table-striped table table-hover"&gt;
+&lt;table class="table-hover table  table-striped"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -517,7 +575,7 @@
 &lt;p&gt;UK-resident暴力翻译是英国税民，但是跟各位童鞋有没有拿到BRP和是不是英国公民没有关系。如果在每个税年(4月6号-明年4月5号)，待在英国的时间累计超过183天，那么就算做uk-resident for that tax year；如果少于46天，则是Non-UK resident。卡在中间的，会有比较复杂的Statutory test，会综合考虑工作、家庭和个人未来计划。&lt;/p&gt;
 &lt;p&gt;UK-domicile Y小姐的个人翻译是英国户籍，但跟中国的户籍有不同。英国的户籍比较复杂，可以分成四种：domicile of origin, domicile of dependency, domicile of choice and deemed-domicile。其中domicile of origin跟中国祖籍相似，是出生时父亲的户籍；domicile of depency是指小朋友在未满18周岁时他的籍贯会根据抚养人的籍贯而改变；domicile of choice指成年以后若是去国外长期定居，这个人就可以申请变掉自己的domcile。Deemed-domicile比较模糊，意思是哪怕是拥有国外户籍，但若是在英国待久了大于15年，税务上会把你看成UK domicile；若是一个人要长期离开英国，而且已经取得国外户籍，在一些情况下也会被当成英国户籍上税。&lt;/p&gt;
 &lt;p&gt;那么为什么要区别户籍呢？这涉及到海外收入的问题。总体说如果一个人是UK-domicile，那么他的所有海外收入都必须上英国税；若是Non-Uk domicile，他的海外收入若是留在海外，就能不上税。Y小姐列了一个2x2的表来标注上上税的收入范围：&lt;/p&gt;
-&lt;table class=" table-striped table table-hover"&gt;
+&lt;table class="table-hover table  table-striped"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -595,7 +653,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;计算的方法思路是先汇和再分类：先把所有的gross income加起来，去掉deductible payment，这时候你会得到一个总taxable ncome。这个数字会决定你的available的personal allowance和0% Savings income tax band。这个总收入再按照收入种类和税率档次逐层计算。2020/21 tax year规定personal allowance是12,500， 这部分不计入税收，再往上就按照下表逐一交税了。&lt;/p&gt;
 &lt;p&gt;除了欧盟国家和英联邦国家的公民，Non-UK resident是没有personal allowance的优惠的。&lt;/p&gt;
-&lt;table class=" table-striped table table-hover"&gt;
+&lt;table class="table-hover table  table-striped"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Band rate&lt;/th&gt;
@@ -694,7 +752,7 @@
 &lt;h1 id="national-insurance-contribution"&gt;National Insurance Contribution&lt;/h1&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;除了正常收入税，HMRC还要征收社会保障金 (NIC)。NIC是针对earnings而非income，意思是income中的一些non-earnings 就不计入所征收金额在内了，比如一些公司福利，pension income， fuel benefit等等。NIC分成以下四类，也是阶梯式计算方式。&lt;/p&gt;
-&lt;table class=" table-striped table table-hover"&gt;
+&lt;table class="table-hover table  table-striped"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;种类&lt;/th&gt;
