@@ -1,6 +1,6 @@
 Title: 思考：快与慢
 date: 2019-01-01
-Slug: 思考：快与慢
+Slug: 思考 快与慢
 Tags: Reading
 
 
