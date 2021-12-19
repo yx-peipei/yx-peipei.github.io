@@ -14,7 +14,6 @@
 &lt;p&gt;英国需要每年新造300,000个房子才能满足市场需要，但是实际完成数目只到一半。市场需求来源于不断增长的人口数量，一方面由人口平均寿命变长导致，另一方面也因为海外移民的大量流入。房屋完成数量的减少，由下面这个图可以发现，主要是因为地方政府完成量降低导致：1960-70年代每年能完成100,000，现在基本为零。&lt;/p&gt;
 &lt;p&gt;地方政府建造的房屋基本都是social house，是为低收入人群提供的福利房。二战后的经济重建期，国家给予地方政府大量财政补助去建造新房，旨在为工人、退伍士兵提供条件比较好的房屋。之后随着经济的腾飞，右派势力抬头，国家政策开始转向，地方政府获得的财政补助变少，每年的新房屋建设数量也跟着缩水。1979-1990年期间，撒切尔夫人为首的保守党政府通过Right To Buy卖掉了150万social house，这就使得地方政府也无法在原有土地上翻新加盖房屋，增加房屋供应量。&lt;/p&gt;
 &lt;p&gt;这就导致了如今的新房屋基本都由私有房地产商建造的局面。商人重利，地产商造房目的是赚钱，根本不考虑社会福祉。所以当房价低的时候根本不想扩大产出，房价高的时候再考虑建造。对无房产的年轻人来说，他们也越来越难以用合理的价格来购买。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="uk_new_build" class="img-responsive" src="/images/uk_new_build_by_tenure.png"/&gt;&lt;/p&gt;
 &lt;h3 id="_3"&gt;新建房屋过少是由于土地价格过高和大地产开发商的故意哄价导致&lt;/h3&gt;
 &lt;p&gt;在作者看来，英国不恰当的土地政策是土地价格过高和房屋供应数目不足的根本原因。1960-70年地方政府可以完成大笔数目的房屋建设，是因为有1947年New Town Act和Town and Country Planning Act的支持：这些政策保证了只有政府才有土地规划的权力(development permission grant)，以及原有土地拥有者只能以exsiting use的价格卖出土地。所以政府在50年代以较低的价格购买了很多土地，而大量房屋在接下来的10年之内完工，所以当时房子的价格也是普通家庭可以负担得起的。&lt;/p&gt;
 &lt;p&gt;但是1961年通过的修正法案规定，原有土地的拥有者可以获得一定的补偿，如果他在土地卖出后，这个土地因获得了房屋建造权而价值上涨。这就使得土地的价格变成未来价值的预期，而非历史价格。多方利益博弈就此产生。一方面土地拥有者不希望轻易卖出土地，但他可能没有途径去拿到房屋建造权。而地产商可以一方面通过暗箱操作与土地拥有者签订合约，如果地产商能使得拿到房屋建造权，那么土地拥有者保证将地卖给他。另一方面lobby政府获得建造权。当地产商在拿到土地后，往往会压住不建造房屋，等到房价上涨后再出售。&lt;/p&gt;
@@ -385,7 +384,7 @@
 &lt;p&gt;既然信托是一个为了财产所属创造的“人”，那么一般的individual所面临的income tax, capital gain tax, inheritance tax它也会遇到。征税范围和报税流程上来说，信托基金与个人大致是一样的，但税率有较大的区别。
 下面几个表格给大家划出来一些重点。无特别说明的情况下，信托是包括IIP和discretionary trust。bare trust的收入税、资产利得税和遗产税还是在委托人身上做assessment.&lt;/p&gt;
 &lt;h3 id="_4"&gt;收入税&lt;/h3&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class="table  table-striped table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -427,7 +426,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id="_5"&gt;资产获利税&lt;/h3&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class="table  table-striped table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -469,7 +468,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id="_6"&gt;遗产税&lt;/h3&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class="table  table-striped table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -598,7 +597,7 @@
 &lt;p&gt;UK-resident暴力翻译是英国税民，但是跟各位童鞋有没有拿到BRP和是不是英国公民没有关系。如果在每个税年(4月6号-明年4月5号)，待在英国的时间累计超过183天，那么就算做uk-resident for that tax year；如果少于46天，则是Non-UK resident。卡在中间的，会有比较复杂的Statutory test，会综合考虑工作、家庭和个人未来计划。&lt;/p&gt;
 &lt;p&gt;UK-domicile Y小姐的个人翻译是英国户籍，但跟中国的户籍有不同。英国的户籍比较复杂，可以分成四种：domicile of origin, domicile of dependency, domicile of choice and deemed-domicile。其中domicile of origin跟中国祖籍相似，是出生时父亲的户籍；domicile of depency是指小朋友在未满18周岁时他的籍贯会根据抚养人的籍贯而改变；domicile of choice指成年以后若是去国外长期定居，这个人就可以申请变掉自己的domcile。Deemed-domicile比较模糊，意思是哪怕是拥有国外户籍，但若是在英国待久了大于15年，税务上会把你看成UK domicile；若是一个人要长期离开英国，而且已经取得国外户籍，在一些情况下也会被当成英国户籍上税。&lt;/p&gt;
 &lt;p&gt;那么为什么要区别户籍呢？这涉及到海外收入的问题。总体说如果一个人是UK-domicile，那么他的所有海外收入都必须上英国税；若是Non-Uk domicile，他的海外收入若是留在海外，就能不上税。Y小姐列了一个2x2的表来标注上上税的收入范围：&lt;/p&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class="table  table-striped table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -676,7 +675,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;计算的方法思路是先汇和再分类：先把所有的gross income加起来，去掉deductible payment，这时候你会得到一个总taxable ncome。这个数字会决定你的available的personal allowance和0% Savings income tax band。这个总收入再按照收入种类和税率档次逐层计算。2020/21 tax year规定personal allowance是12,500， 这部分不计入税收，再往上就按照下表逐一交税了。&lt;/p&gt;
 &lt;p&gt;除了欧盟国家和英联邦国家的公民，Non-UK resident是没有personal allowance的优惠的。&lt;/p&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class="table  table-striped table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Band rate&lt;/th&gt;
@@ -775,7 +774,7 @@
 &lt;h1 id="national-insurance-contribution"&gt;National Insurance Contribution&lt;/h1&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;除了正常收入税，HMRC还要征收社会保障金 (NIC)。NIC是针对earnings而非income，意思是income中的一些non-earnings 就不计入所征收金额在内了，比如一些公司福利，pension income， fuel benefit等等。NIC分成以下四类，也是阶梯式计算方式。&lt;/p&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class="table  table-striped table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;种类&lt;/th&gt;

@@ -30,7 +30,7 @@ GOOGLE_ANALYTICS = 'UA-163475673-1'
 
 STATIC_PATHS= ['images',
                'pages',
-               'static'
+               'static',
                'images/favicon.ico',
                'static/CNAME']
 
