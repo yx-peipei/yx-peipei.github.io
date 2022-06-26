@@ -5,22 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/</loc>
-<lastmod>2022-04-27T20:06:48-00:00</lastmod>
+<lastmod>2022-06-26T20:18:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/archives.html</loc>
-<lastmod>2022-04-27T20:06:48-00:00</lastmod>
+<lastmod>2022-06-26T20:18:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/categories.html</loc>
-<lastmod>2022-04-27T20:06:48-00:00</lastmod>
+<lastmod>2022-06-26T20:18:51-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://yx-peipei.github.io/thought/参佛小记之二.html</loc>
+<lastmod>2022-06-26T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -390,14 +397,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/thought/index.html</loc>
-<lastmod>2022-04-27T00:00:00+08:06</lastmod>
+<lastmod>2022-06-26T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://yx-peipei.github.io/tag/prose.html</loc>
-<lastmod>2022-04-27T00:00:00+08:06</lastmod>
+<lastmod>2022-06-26T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -439,7 +446,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://yx-peipei.github.io/author/peipei.html</loc>
-<lastmod>2022-04-27T00:00:00+08:06</lastmod>
+<lastmod>2022-06-26T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
