@@ -34,10 +34,10 @@
 &lt;p&gt;雇主虽是non-uk resident，但人如果身在英国，那么这笔收入是uk income。&lt;/p&gt;
 &lt;h3 id="q_2"&gt;Q: 从国内自己的支付宝转了一笔钱到了英国账户，需不需要上税？&lt;/h3&gt;
 &lt;p&gt;一些情况下不需要告知HMRC也不上税。条件包括：
-* 转过来的钱是以前的积蓄，而非成为英国税民后的收入
-* 小伙伴在成为英国税民后，这个支付宝账户也没有任何收入进入，包括工作所得、利息、生意所得、分红等。
-* 支付宝的钱没有被当成任何uk贷款的保证金，简单例子就是，在申请英国房屋贷款的时候没有作为bank statement给银行出示
-* 小伙伴是Non-UK domicile&lt;/p&gt;
+&lt;em&gt; 转过来的钱是以前的积蓄，而非成为英国税民后的收入
+&lt;/em&gt; 小伙伴在成为英国税民后，这个支付宝账户也没有任何收入进入，包括工作所得、利息、生意所得、分红等。
+&lt;em&gt; 支付宝的钱没有被当成任何uk贷款的保证金，简单例子就是，在申请英国房屋贷款的时候没有作为bank statement给银行出示
+&lt;/em&gt; 小伙伴是Non-UK domicile&lt;/p&gt;
 &lt;p&gt;上面三条是保证这个账户是clean capital account，即这个账户只能存放来到英国之前的海外收入和海外资产。如果账户不小心掺杂了任何其它收入，在税务上就被当成'mixed fund'，那么你打回英国的那笔钱被当成先从之后产生的收入里面出。&lt;/p&gt;
 &lt;p&gt;这时候就应该告知HMRC这笔钱是来自海外收入。按照remittance basis的规定，如果选择了remittance basis, 首先丧失每年的免税额度，然后这笔钱要上Non Savings income的边际税率。而且如果在英国待的时间超过5个税年，还会有相应的RBC的charge。
 如果选择remittance basis，那么就要上英国的收入税。&lt;/p&gt;
@@ -57,7 +57,7 @@
 &lt;p&gt;这些收入通通需要告知HMRC。至于上不上税，这就要看是否打回到英国账户以及是否选择remittance basis。如果选择了remittance basis，留在海外没有拿回英国的收入不需要上Uk income tax， 只有拿回来的需要上税。若收入在海外国家已经上过税，小伙伴可以claim the DTR(double tax relief)。&lt;/p&gt;
 &lt;p&gt;如果海外收入当年没有拿回英国，之后才拿回，那么在拿回来的那一年需要告知HMRC且上这部分的收入税。&lt;/p&gt;
 &lt;p&gt;海外收入不按照来源，通通按照Non-Savings income上20%/40%/45%的英国税率。&lt;/p&gt;
-&lt;p&gt;如果那一个税年未拿回的海外收入若是小于£2000，remittance basis自动成立，而且本人的personal allowance和capital gain annual exemption可以保留。&lt;/p&gt;</content><category term="tax"></category><category term="tax"></category></entry><entry><title>03资产利得税</title><link href="https://yx-peipei.github.io/tax/03%E8%B5%84%E4%BA%A7%E5%88%A9%E5%BE%97%E7%A8%8E.html" rel="alternate"></link><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-05:/tax/03资产利得税.html</id><summary type="html">&lt;p&gt;很多童鞋会问，平时买卖股票、交易二手商品赚到的钱要不要交税。先假定你不是专职做这种买卖，那么很有可能这些获利要上税。这里涉及的税种是capital gain tax，Y小姐的翻译是资产利得税。下面分成几个方面来给大家扫扫盲。&lt;/p&gt;
+&lt;p&gt;如果那一个税年未拿回的海外收入若是小于£2000，remittance basis自动成立，而且本人的personal allowance和capital gain annual exemption可以保留。&lt;/p&gt;</content><category term="tax"></category></entry><entry><title>03资产利得税</title><link href="https://yx-peipei.github.io/tax/03%E8%B5%84%E4%BA%A7%E5%88%A9%E5%BE%97%E7%A8%8E.html" rel="alternate"></link><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-05:/tax/03资产利得税.html</id><summary type="html">&lt;p&gt;很多童鞋会问，平时买卖股票、交易二手商品赚到的钱要不要交税。先假定你不是专职做这种买卖，那么很有可能这些获利要上税。这里涉及的税种是capital gain tax，Y小姐的翻译是资产利得税。下面分成几个方面来给大家扫扫盲。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="#概括"&gt;概括&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#计算方法"&gt;计算方法&lt;/a&gt;&lt;/li&gt;
@@ -117,8 +117,8 @@
 &lt;h4 id="_4"&gt;工作公司股票资产获利税&lt;/h4&gt;
 &lt;p&gt;Q：有些小伙伴手上持有工作的公司发的股票，那么这个股票卖掉之后需不需要上税呢？怎么计算l利得税？&lt;/p&gt;
 &lt;p&gt;A：一般是需要上税的，获利金额是卖出价减去成本价。那么如何计算成本价？这个还是要看当初公司配发股票的scheme。一般说来有以下几种情况：
-* 公司直接配股， 通过Share Incentive Plan 或者没有任何tax advantage 的plan， 公司会在未来一定时期内给员工配多少股票(免费或者以优惠价格)
-* 公司配option，雇员可以以低于市场的价格在未来几年内（后）购买一定数量的股票。相关的scheme有SAYE scheme, Company Share Option Plan (CSOP), Enterprise Management Incentive (EMI) Scheme 或者也可能是没有non-tax advantaged share option scheme.&lt;/p&gt;
+&lt;em&gt; 公司直接配股， 通过Share Incentive Plan 或者没有任何tax advantage 的plan， 公司会在未来一定时期内给员工配多少股票(免费或者以优惠价格)
+&lt;/em&gt; 公司配option，雇员可以以低于市场的价格在未来几年内（后）购买一定数量的股票。相关的scheme有SAYE scheme, Company Share Option Plan (CSOP), Enterprise Management Incentive (EMI) Scheme 或者也可能是没有non-tax advantaged share option scheme.&lt;/p&gt;
 &lt;p&gt;这个tax advantage plan一般是针对个人收入税的，意思是如果小伙伴低于市场价买入股票，优惠金额算是公司的福利，有可能会上收入税。资产利得则产生于之后的买卖行为，一般没有太大影响。&lt;/p&gt;
 &lt;p&gt;总体来说，股票成本价格是持股人的股票购买原价加上个人所得税征收的价格。&lt;/p&gt;
 &lt;ul&gt;
@@ -132,15 +132,15 @@
 &lt;p&gt;A：除了ISA账户里面的股票，其它所有股票盈利都需要交资产获利税。&lt;/p&gt;
 &lt;p&gt;Q：海外股票账户需要交税吗？&lt;/p&gt;
 &lt;p&gt;A：如果同时满足以下要求，则可以申请remittance basis，不需要交税：
-* 获利股票的register地在海外
-* 纳税人是non UK domicile
-* 买卖股票的账户也是在海外 且
-* 获利没有拿回英国&lt;/p&gt;
+&lt;em&gt; 获利股票的register地在海外
+&lt;/em&gt; 纳税人是non UK domicile
+&lt;em&gt; 买卖股票的账户也是在海外 且
+&lt;/em&gt; 获利没有拿回英国&lt;/p&gt;
 &lt;p&gt;后三者的要求跟个人海外所得税一致。而且与个人所得税一样，如果选择remittance，则失去personal allowance；同时如果在英国长期resident,则需要交remittance charge&lt;/p&gt;
 &lt;p&gt;Q：若是同一只股票，不同时期以不同价格购买；但同一时期不完全匹配卖出，如何计算股票获利？&lt;/p&gt;
 &lt;p&gt;A：股票和证券获利买卖匹配原则，如果纳税人卖出一定数量的股票，那么成本价先
-* 匹配同一天买入的股票， 再
-* 匹配接下来30天买入的股票，最后
+&lt;em&gt; 匹配同一天买入的股票， 再
+&lt;/em&gt; 匹配接下来30天买入的股票，最后
 * 之前买入的股票，加权平均&lt;/p&gt;
 &lt;p&gt;&lt;a name="房屋篇"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id="_6"&gt;房屋篇&lt;/h1&gt;
@@ -163,7 +163,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;如果小伙伴把资产赠送给亲友（配偶以外），英国税法规定是要交资产利得税的：赠送行为等同于以市场价格卖出。这个观念跟国内很不相同，国内会认为自己有权对自己财产做任何处置。所以说小伙伴把房产赠予自己的孩子，除了可能要交遗产税，还要交资产利得税。&lt;/p&gt;
 &lt;p&gt;如果是父母给与的金钱，则不需要上资产利得税。资产利得税不产生于上面说的excepted asset的买卖。&lt;/p&gt;
-&lt;p&gt;如果这个礼物是商业资产，包括自己控制下的trading company share和property，有一个延迟上税的减免。大体意思是赠送人不需要上税，如果受赠人接下来有卖出，受赠人要付清被延迟掉的资产利得税。&lt;/p&gt;</content><category term="tax"></category><category term="tax"></category></entry><entry><title>04遗产税</title><link href="https://yx-peipei.github.io/tax/04%E9%81%97%E4%BA%A7%E7%A8%8E.html" rel="alternate"></link><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-05:/tax/04遗产税.html</id><summary type="html">&lt;p&gt;打开这篇文章的小伙伴，Y小姐估计都是误打误撞的吧 lol……但是Y小姐恭喜你们，读完这篇你会有很大收获。西方国家在财产方面跟中国人的观念相差很大，中国人认为自己需要打拼一辈子，要多给子孙留些钱财，所以对西方国家很重的遗产税理解不能。但是西方国家恨不能所有人都光着身子来，光着身子走。所以遗产税方面英国征税很重，如果不提前做好准备的话，到时候肯定会后悔莫及的！&lt;/p&gt;
+&lt;p&gt;如果这个礼物是商业资产，包括自己控制下的trading company share和property，有一个延迟上税的减免。大体意思是赠送人不需要上税，如果受赠人接下来有卖出，受赠人要付清被延迟掉的资产利得税。&lt;/p&gt;</content><category term="tax"></category></entry><entry><title>04遗产税</title><link href="https://yx-peipei.github.io/tax/04%E9%81%97%E4%BA%A7%E7%A8%8E.html" rel="alternate"></link><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-05:/tax/04遗产税.html</id><summary type="html">&lt;p&gt;打开这篇文章的小伙伴，Y小姐估计都是误打误撞的吧 lol……但是Y小姐恭喜你们，读完这篇你会有很大收获。西方国家在财产方面跟中国人的观念相差很大，中国人认为自己需要打拼一辈子，要多给子孙留些钱财，所以对西方国家很重的遗产税理解不能。但是西方国家恨不能所有人都光着身子来，光着身子走。所以遗产税方面英国征税很重，如果不提前做好准备的话，到时候肯定会后悔莫及的！&lt;/p&gt;
 &lt;p&gt;下面Y小姐从以下几个方面来给大家扫扫nheritance tax (IHT)方面的盲点。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="#概括"&gt;概括&lt;/a&gt;&lt;/li&gt;
@@ -288,7 +288,7 @@
 &lt;p&gt;不同于资产利得税，现金的赠予也被考虑在遗产税的征收范围内。而且在很多情况下，礼物赠予意味着双税收征调。比如说房产的亲友转移，捐赠人不仅仅要考虑遗产税的问题，也要考虑资产利得税的问题。&lt;/p&gt;
 &lt;p&gt;关于如何交税的问题，遗产税不同于个人收入税和资产利得税，没有self assessment的狂点Next。IHT有专门的表格，包括IHT100, IHT400等等，不同表格针对不同时期和类别的礼物馈赠。填表人、付税款的人也不一定都是捐赠人，有可能是受益者、或是信托管理人、或是遗产处理代表。这个部分需要很相关的知识，大家有需要的话可以来联系Y小姐。&lt;/p&gt;
 &lt;p&gt;粗略来讲填表日期和遗产税款的结账需要在6个月之内完成，晚填表、填错表以及晚交钱都是要被惩罚的~&lt;/p&gt;
-&lt;p&gt;在一些情况下税款可以分期付清，具体细节Y小姐就不啰嗦啦！&lt;/p&gt;</content><category term="tax"></category><category term="tax"></category></entry><entry><title>05建立信托</title><link href="https://yx-peipei.github.io/tax/05%E5%BB%BA%E7%AB%8B%E4%BF%A1%E6%89%98.html" rel="alternate"></link><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-05:/tax/05建立信托.html</id><summary type="html">&lt;p&gt;小时候读柯南的，小说里有几篇涉及到受害人是信托基金的受益人，犯罪动机就是对信托基金的财产占有。当时觉得主角们都好有钱，还能创建信托基金。但经过这两年的税务和法律学习发现，不是只有有钱人才可以创建信托，普通人也可以。而且信托很大程度上市为了避税和保护家业。这几年英国税改也很大一部分在包括对信托基金征税的遗产税方面，因此涉及到的政策还是很多的。&lt;/p&gt;
+&lt;p&gt;在一些情况下税款可以分期付清，具体细节Y小姐就不啰嗦啦！&lt;/p&gt;</content><category term="tax"></category></entry><entry><title>05建立信托</title><link href="https://yx-peipei.github.io/tax/05%E5%BB%BA%E7%AB%8B%E4%BF%A1%E6%89%98.html" rel="alternate"></link><published>2021-12-05T00:00:00+08:00</published><updated>2021-12-05T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-05:/tax/05建立信托.html</id><summary type="html">&lt;p&gt;小时候读柯南的，小说里有几篇涉及到受害人是信托基金的受益人，犯罪动机就是对信托基金的财产占有。当时觉得主角们都好有钱，还能创建信托基金。但经过这两年的税务和法律学习发现，不是只有有钱人才可以创建信托，普通人也可以。而且信托很大程度上市为了避税和保护家业。这几年英国税改也很大一部分在包括对信托基金征税的遗产税方面，因此涉及到的政策还是很多的。&lt;/p&gt;
 &lt;p&gt;这部分内容很专业化，若是用来避税需要很精巧的设计，不是所有人都适合。Y小姐就只捡大路边上的知识给大家做个skeleton的讲解，大纲如下:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="#为什么需要信托基金"&gt;为什么需要信托基金&lt;/a&gt;&lt;/li&gt;
@@ -362,7 +362,7 @@
 &lt;p&gt;既然信托是一个为了财产所属创造的“人”，那么一般的individual所面临的income tax, capital gain tax, inheritance tax它也会遇到。征税范围和报税流程上来说，信托基金与个人大致是一样的，但税率有较大的区别。
 下面几个表格给大家划出来一些重点。无特别说明的情况下，信托是包括IIP和discretionary trust。bare trust的收入税、资产利得税和遗产税还是在委托人身上做assessment.&lt;/p&gt;
 &lt;h3 id="_4"&gt;收入税&lt;/h3&gt;
-&lt;table class="table-hover table  table-striped"&gt;
+&lt;table class=" table-striped table-hover table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -404,7 +404,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id="_5"&gt;资产获利税&lt;/h3&gt;
-&lt;table class="table-hover table  table-striped"&gt;
+&lt;table class=" table-striped table-hover table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -446,7 +446,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id="_6"&gt;遗产税&lt;/h3&gt;
-&lt;table class="table-hover table  table-striped"&gt;
+&lt;table class=" table-striped table-hover table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -493,7 +493,7 @@
 &lt;p&gt;&lt;a name="BottomLine"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id="bottom-line"&gt;Bottom Line&lt;/h1&gt;
 &lt;p&gt;&lt;/p&gt;
-信托是专门用于个人财产税务管理的机器，相关税法条目复杂，所以它的有效性也因人而异。若是小伙伴在英国的财富积累到一定程度，开始为后代和身后事打算的时候，不妨考虑一下相关事项。Y小姐的税务师考试有专门针对遗产税的科目，大家有什么问题一定会竭尽所能帮忙的！</content><category term="tax"></category><category term="tax"></category></entry><entry><title>01税种说明</title><link href="https://yx-peipei.github.io/tax/01%E7%A8%8E%E7%A7%8D%E8%AF%B4%E6%98%8E.html" rel="alternate"></link><published>2021-12-04T00:00:00+08:00</published><updated>2021-12-04T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-04:/tax/01税种说明.html</id><summary type="html">&lt;p&gt;Y小姐相信随着各位童鞋在英国待的时间越来越长，大家的收入来源也会变得多元化。留学期间大家无收入，自然也没有报税避税的意识；刚开始工作后几年间，工资收入是唯一/主要的收入来源，工资税也主要以PAYE的形式自动扣除，每年的报税也只是在Self-Assessment的deadline之前在HMRC SA网站上狂点Next，根据系统的结果多退少补。但是接下来的税务事项会变得复杂，童鞋们可能发展副业有额外工作收入，可能会购买trust fund之类有trust 收入，也可能开始做房东产生租金收入，也可能炒股会发现突然年底有分红，也可能远程打工在海外获得工作收入等。大家偶尔也会有资产获利，比如说买卖股票、ebay上卖掉闲置二手商品、卖掉个人居所等。最后可能也会有遗产或是赠予所得，或者想给自己的后代子孙建立信托基金：这会涉及繁琐的遗产税计算，其中不仅赠予者需要注意需不需要上税，被赠予者也有税务上的注意事项。Y小姐闷头学习两三年，终于考掉税务咨询师的最后一门，也打算在2021/22税年前写写文章，给大家扫扫盲。&lt;/p&gt;
+信托是专门用于个人财产税务管理的机器，相关税法条目复杂，所以它的有效性也因人而异。若是小伙伴在英国的财富积累到一定程度，开始为后代和身后事打算的时候，不妨考虑一下相关事项。Y小姐的税务师考试有专门针对遗产税的科目，大家有什么问题一定会竭尽所能帮忙的！</content><category term="tax"></category></entry><entry><title>01税种说明</title><link href="https://yx-peipei.github.io/tax/01%E7%A8%8E%E7%A7%8D%E8%AF%B4%E6%98%8E.html" rel="alternate"></link><published>2021-12-04T00:00:00+08:00</published><updated>2021-12-04T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-04:/tax/01税种说明.html</id><summary type="html">&lt;p&gt;Y小姐相信随着各位童鞋在英国待的时间越来越长，大家的收入来源也会变得多元化。留学期间大家无收入，自然也没有报税避税的意识；刚开始工作后几年间，工资收入是唯一/主要的收入来源，工资税也主要以PAYE的形式自动扣除，每年的报税也只是在Self-Assessment的deadline之前在HMRC SA网站上狂点Next，根据系统的结果多退少补。但是接下来的税务事项会变得复杂，童鞋们可能发展副业有额外工作收入，可能会购买trust fund之类有trust 收入，也可能开始做房东产生租金收入，也可能炒股会发现突然年底有分红，也可能远程打工在海外获得工作收入等。大家偶尔也会有资产获利，比如说买卖股票、ebay上卖掉闲置二手商品、卖掉个人居所等。最后可能也会有遗产或是赠予所得，或者想给自己的后代子孙建立信托基金：这会涉及繁琐的遗产税计算，其中不仅赠予者需要注意需不需要上税，被赠予者也有税务上的注意事项。Y小姐闷头学习两三年，终于考掉税务咨询师的最后一门，也打算在2021/22税年前写写文章，给大家扫扫盲。&lt;/p&gt;
 &lt;p&gt;大体上说来，在英国居住的个体（户）面临的税种有：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -528,7 +528,7 @@
 &lt;p&gt;增值税（VAT）&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;在漫长的税务师学习中， Y小姐主要攻读个人所得税、资产利得税、商业个体户盈利税和遗产税。印花税是土地和房屋买卖才会有的税类，到时候会有专门的律师和税务顾问去帮大家处理。其它的税种Y小姐会分几篇文章给大家做个详细介绍，希望能够解决大家的一些疑惑，在个人发展和资产计划中提早做好准备，以免节外生枝。&lt;/p&gt;</content><category term="tax"></category><category term="tax"></category></entry><entry><title>02个人所得税</title><link href="https://yx-peipei.github.io/tax/02%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E.html" rel="alternate"></link><published>2021-12-04T00:00:00+08:00</published><updated>2021-12-04T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-04:/tax/02个人所得税.html</id><summary type="html">&lt;p&gt;Income Tax翻译成个人所得税，但Y小姐觉得翻译欠缺，毕竟只要跑到自己腰包的东西都叫做“所得”，但是炒股票挣得钱不叫做 income叫做capital gain (资产获利)，父母给自己的j结婚礼金也不叫做income，叫做gift (礼物)。但有时候大家觉得是获利的项目其实要归到income中，比如跟别人合伙开生意（Partenership）的商业获利. Y小姐理解的"个人所得”是指收入的来源是稳定和规律的，而非一锤子买卖。&lt;/p&gt;
+&lt;p&gt;在漫长的税务师学习中， Y小姐主要攻读个人所得税、资产利得税、商业个体户盈利税和遗产税。印花税是土地和房屋买卖才会有的税类，到时候会有专门的律师和税务顾问去帮大家处理。其它的税种Y小姐会分几篇文章给大家做个详细介绍，希望能够解决大家的一些疑惑，在个人发展和资产计划中提早做好准备，以免节外生枝。&lt;/p&gt;</content><category term="tax"></category></entry><entry><title>02个人所得税</title><link href="https://yx-peipei.github.io/tax/02%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E.html" rel="alternate"></link><published>2021-12-04T00:00:00+08:00</published><updated>2021-12-04T00:00:00+08:00</updated><author><name>peipei</name></author><id>tag:yx-peipei.github.io,2021-12-04:/tax/02个人所得税.html</id><summary type="html">&lt;p&gt;Income Tax翻译成个人所得税，但Y小姐觉得翻译欠缺，毕竟只要跑到自己腰包的东西都叫做“所得”，但是炒股票挣得钱不叫做 income叫做capital gain (资产获利)，父母给自己的j结婚礼金也不叫做income，叫做gift (礼物)。但有时候大家觉得是获利的项目其实要归到income中，比如跟别人合伙开生意（Partenership）的商业获利. Y小姐理解的"个人所得”是指收入的来源是稳定和规律的，而非一锤子买卖。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="#纳税人分类"&gt;纳税人分类&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#纳税项目"&gt;纳税项目&lt;/a&gt;&lt;/li&gt;
@@ -575,7 +575,7 @@
 &lt;p&gt;UK-resident暴力翻译是英国税民，但是跟各位童鞋有没有拿到BRP和是不是英国公民没有关系。如果在每个税年(4月6号-明年4月5号)，待在英国的时间累计超过183天，那么就算做uk-resident for that tax year；如果少于46天，则是Non-UK resident。卡在中间的，会有比较复杂的Statutory test，会综合考虑工作、家庭和个人未来计划。&lt;/p&gt;
 &lt;p&gt;UK-domicile Y小姐的个人翻译是英国户籍，但跟中国的户籍有不同。英国的户籍比较复杂，可以分成四种：domicile of origin, domicile of dependency, domicile of choice and deemed-domicile。其中domicile of origin跟中国祖籍相似，是出生时父亲的户籍；domicile of depency是指小朋友在未满18周岁时他的籍贯会根据抚养人的籍贯而改变；domicile of choice指成年以后若是去国外长期定居，这个人就可以申请变掉自己的domcile。Deemed-domicile比较模糊，意思是哪怕是拥有国外户籍，但若是在英国待久了大于15年，税务上会把你看成UK domicile；若是一个人要长期离开英国，而且已经取得国外户籍，在一些情况下也会被当成英国户籍上税。&lt;/p&gt;
 &lt;p&gt;那么为什么要区别户籍呢？这涉及到海外收入的问题。总体说如果一个人是UK-domicile，那么他的所有海外收入都必须上英国税；若是Non-Uk domicile，他的海外收入若是留在海外，就能不上税。Y小姐列了一个2x2的表来标注上上税的收入范围：&lt;/p&gt;
-&lt;table class="table-hover table  table-striped"&gt;
+&lt;table class=" table-striped table-hover table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -653,7 +653,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;计算的方法思路是先汇和再分类：先把所有的gross income加起来，去掉deductible payment，这时候你会得到一个总taxable ncome。这个数字会决定你的available的personal allowance和0% Savings income tax band。这个总收入再按照收入种类和税率档次逐层计算。2020/21 tax year规定personal allowance是12,500， 这部分不计入税收，再往上就按照下表逐一交税了。&lt;/p&gt;
 &lt;p&gt;除了欧盟国家和英联邦国家的公民，Non-UK resident是没有personal allowance的优惠的。&lt;/p&gt;
-&lt;table class="table-hover table  table-striped"&gt;
+&lt;table class=" table-striped table-hover table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Band rate&lt;/th&gt;
@@ -752,7 +752,7 @@
 &lt;h1 id="national-insurance-contribution"&gt;National Insurance Contribution&lt;/h1&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;除了正常收入税，HMRC还要征收社会保障金 (NIC)。NIC是针对earnings而非income，意思是income中的一些non-earnings 就不计入所征收金额在内了，比如一些公司福利，pension income， fuel benefit等等。NIC分成以下四类，也是阶梯式计算方式。&lt;/p&gt;
-&lt;table class="table-hover table  table-striped"&gt;
+&lt;table class=" table-striped table-hover table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;种类&lt;/th&gt;
@@ -836,4 +836,4 @@
 &lt;li&gt;如果不放入pension fund，你有没有很好的投资机会，年化率（r）是多少&lt;/li&gt;
 &lt;li&gt;如果放入pension fund，忽略养老金的资产回报，考虑到养老金不能随便拿出来的限制，你要设想为多大的折扣（c）&lt;/li&gt;
 &lt;li&gt;你的总体收入和边际税率是多少&lt;/li&gt;
-&lt;/ul&gt;</content><category term="tax"></category><category term="tax"></category></entry></feed>
+&lt;/ul&gt;</content><category term="tax"></category></entry></feed>

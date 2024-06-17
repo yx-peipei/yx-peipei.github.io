@@ -197,7 +197,7 @@
                 <p>I am obsessed with the essence of time, because I have been searching for  the meaning of life for so long, because it is a very confusing matter. All of us interact with time on every single moment:  we are required to be on time, otherwise we cannot get to the destination just by missing a train, or we would be blamed by the managers if a meeting was missed.  If someone asks me, where is the time? The prompt response is that time exists in the clicking of the clock. But time is not the clock, just as we cannot define a person by his measure.</p>
 <p>Then after a second thought, I would say, time exists in the <em>change</em>.The time is noticed in the change of the sun's position in the sky, from the east-end to the west, it was noticed in the change of the color of leaves,  from the light green to a yellow red, it is noticed in the change of our face from a soft new-born to a wrinkled old. It is very easy to ignore the flow of time until suddenly, we see the first wrinkle on the face; we would not realize there is not too much time remaining in our life until we see the first white  hair. If I were not to die, I wouldn't care about the time; it is just the fact that there is no eternity in the world, that we define the time, which is seems to be itself an eternal and irreversible flow from the past into the future.</p>
 <p>But time is not the change, it comes with the change. We've been taught in the school, by Newtonian mechanism, to think about the world as a threatre stage, on which what happened to our life, and what is happening, are played. The stage is defined as the space, and the time is supposed to be an external clock. The clock is external, it is independent of the play, and it is flowing continuously. However, this image of time was destroyed in 20th century.  Einstein, who started his professional life as the time keeper in the train station, later published his research on the relativity, that there is no 'uniform' time in the world, the time interval for an object depends on its speed to the speed of light. The concept of flow of time was invalidated by an astonishing progress in quantum physics,  that the time is granular,  and that it has a minimum scale around <span class="math">\(10^{-33}s\)</span>.</p>
-<p>If time is not a uniform variable, it cannot be a fundamental variable in physics. The truth is, it is <em>indeed</em> not. Schrödinger equation  <sup id="fnref:bignote"><a class="footnote-ref" href="#fn:bignote">1</a></sup> put  the variable time with an imaginary number <span class="math">\(i\)</span>, which is merely an imaginary small creature created the mathematicians. The imaginary number is imaginary is because it does not exist in the real world. Hence am I  allowed to make a bold conclusion that, time does not exist in <em>real</em> world neither?</p>
+<p>If time is not a uniform variable, it cannot be a fundamental variable in physics. The truth is, it is <em>indeed</em> not. Schrödinger equation  <sup id="fnref:bignote"><a class="footnote-ref" href="#fn:bignote" rel="footnote">1</a></sup> put  the variable time with an imaginary number <span class="math">\(i\)</span>, which is merely an imaginary small creature created the mathematicians. The imaginary number is imaginary is because it does not exist in the real world. Hence am I  allowed to make a bold conclusion that, time does not exist in <em>real</em> world neither?</p>
 <p>Time is surely the biggest lie that the world presents to us. By saying us, I am not referring to only the human, but also all the livings that we observe ion this planet.  We have seen from the telescope that the universe is expanding, by means of the Doppler effect, then we question ourselves, the universe should be smaller in the past than in the present; there must be in one moment when the world cannot be smaller, just as what was supposed by the  metaphysical illusion, there must be a reason which is the ultimate reason of all the casualty, the god says,  let there be light, and that the world was born, that the light comes out from nothing, that the time begins, that the universe is scrolled and unfolded. To describe the un-retrospective process, we even create a concept, the 'entropy', to describe all possible configurations of a system at a certain 'time' point. The great second law of thermodynamics law states that the entropy of any isolated system always increases. That is exactly what we infers from the hypothesis that the universe has the time, it has a singular point which is its origin of the universe, and that we have a future, we are running into that  disordered future.</p>
 <p>But if the universe has its origin, what was the role of the quanta of time? We know that there is no such time zero, which is surely below to the plank scale of time.</p>
 <p>And I feel a sense of arbitrary to obey the rule of increasing entropy. Why my world (and my life) has to be more and more disordered?</p>
@@ -214,7 +214,7 @@
 <li id="fn:bignote">
 <p>Schrödinger equation  describes the evolution of the wave function along the time. Basic idea is that every object is also a wave, the wave function is a probability of this object stays on a certain state. Strange thing is that the wave function evolves with an imaginary time in the below function:
 <div class="math">$$i \hbar \frac{d}{dt} \psi = H \psi$$</div>
-After we know the form of <span class="math">\(\psi\)</span>, we can get important properties such as energy, position, momentum, after applying some operators. The easiest system to solve is a single particle; but if looking at a system of particles, the combination of the wave function becomes difficult to compute. Similar idea with the 'Three Body Problem'. A recent field equation The Wheeler-Dewitt equation even removed the time <span class="math">\(t\)</span> outside of Schrödinger function because of the problem  of time. <a class="footnote-backref" href="#fnref:bignote" title="Jump back to footnote 1 in the text">↩</a></p>
+After we know the form of <span class="math">\(\psi\)</span>, we can get important properties such as energy, position, momentum, after applying some operators. The easiest system to solve is a single particle; but if looking at a system of particles, the combination of the wave function becomes difficult to compute. Similar idea with the 'Three Body Problem'. A recent field equation The Wheeler-Dewitt equation even removed the time <span class="math">\(t\)</span> outside of Schrödinger function because of the problem  of time. <a class="footnote-backref" href="#fnref:bignote" rev="footnote" title="Jump back to footnote 1 in the text">↩</a></p>
 </li>
 </ol>
 </div>
@@ -228,24 +228,22 @@ After we know the form of <span class="math">\(\psi\)</span>, we can get importa
         indent = (screen.width < 768) ? "0em" : indent;
         linebreak = (screen.width < 768) ? 'true' : linebreak;
     }
-
+    
     var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' && location_protocol !== 'https') location_protocol = 'https:';
     mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
-
-    var configscript = document.createElement('script');
-    configscript.type = 'text/x-mathjax-config';
-    configscript[(window.opera ? "innerHTML" : "text")] =
+    mathjaxscript.type = 'text/javascript'; 
+    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
         "MathJax.Hub.Config({" +
         "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
         "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
         "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
         "    displayAlign: '"+ align +"'," +
         "    displayIndent: '"+ indent +"'," +
         "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
         "    tex2jax: { " +
         "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
         "        displayMath: [ ['$$','$$'] ]," +
@@ -253,8 +251,6 @@ After we know the form of <span class="math">\(\psi\)</span>, we can get importa
         "        preview: 'TeX'," +
         "    }, " +
         "    'HTML-CSS': { " +
-        "        availableFonts: ['STIX', 'TeX']," +
-        "        preferredFont: 'STIX'," +
         "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
         "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
         "    }, " +
@@ -275,8 +271,6 @@ After we know the form of <span class="math">\(\psi\)</span>, we can get importa
                 "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
             "});" +
         "}";
-
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 </script>
@@ -346,13 +340,13 @@ After we know the form of <span class="math">\(\psi\)</span>, we can get importa
 <div class="panel-body">
     <ul class="list-group list-inline tagcloud" id="tags">
             <li class="list-group-item tag-1">
-                <a href="https://yx-peipei.github.io/tag/reading.html">
-                    Reading <sup> 19</sup>
+                <a href="https://yx-peipei.github.io/tag/prose.html">
+                    Prose <sup> 30</sup>
                 </a>
             </li>
             <li class="list-group-item tag-1">
-                <a href="https://yx-peipei.github.io/tag/prose.html">
-                    Prose <sup> 29</sup>
+                <a href="https://yx-peipei.github.io/tag/reading.html">
+                    Reading <sup> 19</sup>
                 </a>
             </li>
             <li class="list-group-item tag-2">
