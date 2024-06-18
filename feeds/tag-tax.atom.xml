@@ -362,7 +362,7 @@
 &lt;p&gt;既然信托是一个为了财产所属创造的“人”，那么一般的individual所面临的income tax, capital gain tax, inheritance tax它也会遇到。征税范围和报税流程上来说，信托基金与个人大致是一样的，但税率有较大的区别。
 下面几个表格给大家划出来一些重点。无特别说明的情况下，信托是包括IIP和discretionary trust。bare trust的收入税、资产利得税和遗产税还是在委托人身上做assessment.&lt;/p&gt;
 &lt;h3 id="_4"&gt;收入税&lt;/h3&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class=" table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -404,7 +404,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id="_5"&gt;资产获利税&lt;/h3&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class=" table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -446,7 +446,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id="_6"&gt;遗产税&lt;/h3&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class=" table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -575,7 +575,7 @@
 &lt;p&gt;UK-resident暴力翻译是英国税民，但是跟各位童鞋有没有拿到BRP和是不是英国公民没有关系。如果在每个税年(4月6号-明年4月5号)，待在英国的时间累计超过183天，那么就算做uk-resident for that tax year；如果少于46天，则是Non-UK resident。卡在中间的，会有比较复杂的Statutory test，会综合考虑工作、家庭和个人未来计划。&lt;/p&gt;
 &lt;p&gt;UK-domicile Y小姐的个人翻译是英国户籍，但跟中国的户籍有不同。英国的户籍比较复杂，可以分成四种：domicile of origin, domicile of dependency, domicile of choice and deemed-domicile。其中domicile of origin跟中国祖籍相似，是出生时父亲的户籍；domicile of depency是指小朋友在未满18周岁时他的籍贯会根据抚养人的籍贯而改变；domicile of choice指成年以后若是去国外长期定居，这个人就可以申请变掉自己的domcile。Deemed-domicile比较模糊，意思是哪怕是拥有国外户籍，但若是在英国待久了大于15年，税务上会把你看成UK domicile；若是一个人要长期离开英国，而且已经取得国外户籍，在一些情况下也会被当成英国户籍上税。&lt;/p&gt;
 &lt;p&gt;那么为什么要区别户籍呢？这涉及到海外收入的问题。总体说如果一个人是UK-domicile，那么他的所有海外收入都必须上英国税；若是Non-Uk domicile，他的海外收入若是留在海外，就能不上税。Y小姐列了一个2x2的表来标注上上税的收入范围：&lt;/p&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class=" table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -653,7 +653,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;计算的方法思路是先汇和再分类：先把所有的gross income加起来，去掉deductible payment，这时候你会得到一个总taxable ncome。这个数字会决定你的available的personal allowance和0% Savings income tax band。这个总收入再按照收入种类和税率档次逐层计算。2020/21 tax year规定personal allowance是12,500， 这部分不计入税收，再往上就按照下表逐一交税了。&lt;/p&gt;
 &lt;p&gt;除了欧盟国家和英联邦国家的公民，Non-UK resident是没有personal allowance的优惠的。&lt;/p&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class=" table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Band rate&lt;/th&gt;
@@ -752,7 +752,7 @@
 &lt;h1 id="national-insurance-contribution"&gt;National Insurance Contribution&lt;/h1&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;除了正常收入税，HMRC还要征收社会保障金 (NIC)。NIC是针对earnings而非income，意思是income中的一些non-earnings 就不计入所征收金额在内了，比如一些公司福利，pension income， fuel benefit等等。NIC分成以下四类，也是阶梯式计算方式。&lt;/p&gt;
-&lt;table class=" table-striped table-hover table"&gt;
+&lt;table class=" table-striped table table-hover"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;种类&lt;/th&gt;
